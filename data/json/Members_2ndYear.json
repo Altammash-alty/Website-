@@ -1,0 +1,172 @@
+[
+    {
+        "id": 414,
+        "name": "Rohit kumar",
+        "position": "Coordinator",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit.jpeg?alt=media&token=3b1e862a-805f-4b32-8d92-2baaa849c5b3",
+        "social": {
+            "instagram": "https://www.instagram.com/rohitkaushik_03?igsh=MWY4ejIzdWQ5ajJmdg%3D%3D",
+            "linkedin": ""
+        }
+    },
+    {
+        "id": 425,
+        "name": "Sania Arora",
+        "position": "Coordinator",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Fsaniya.png?alt=media&token=db18539f-32ba-4201-9df8-77ec23156d26",
+        "social": {
+            "instagram": "https://www.instagram.com/saniaarora_8?igsh=OGQ5ZDc2ODk2ZA%3D%3D",
+            "linkedin": "https://linkedin.com/akhil"
+        }
+    },
+    {
+        "id": 438,
+        "name": "Sarayu Nallabolu",
+        "position": "Coordinator",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2FIMG_3567.jpg?alt=media&token=4ddd2590-04d2-4ce6-ad07-7c9daed0ecd0",
+        "social": {
+            "instagram": "https://www.instagram.com/sarayu_.n?igsh=MnI4eGljZGExamVy",
+            "linkedin": ""
+        }
+    },
+    {
+        "id": 450,
+        "name": "Sarika Negi",
+        "position": "Coordinator",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Fsarika.jpg?alt=media&token=d3abe225-3458-4020-8498-aa3a263cc35a",
+        "social": {
+            "instagram": "https://www.instagram.com/its_shikha73?igsh=aGV1ZDFxcjQxeW05l",
+            "linkedin": "https://linkedin.com/akhil"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Aviral",
+        "position": "Executive Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FAviral.jpg?alt=media&token=9f2893dd-e733-4a35-a905-60dfa9b8a09a",
+        "social": {
+            "instagram": "https://www.instagram.com/_avi_hny_0099?igsh=MWZtdjg0dzVtOGo4dw%3D%3D",
+            "linkedin": "https://linkedin.com/akhil"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Geetanjly",
+        "position": "Executive Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FIMG20240212223238.jpg?alt=media&token=06783872-a187-4907-ad62-db12a47020cc",
+        "social": {
+            "instagram": "https://www.instagram.com/geetanjleeee?igsh=MWFnb2kwa2F6anh0OQ==",
+            "linkedin": "https://linkedin.com/akhil"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Gungun",
+        "position": "Executive Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2Fgungun.jpeg?alt=media&token=4e21477b-693d-4429-998c-5aaf3f76f03a",
+        "social": {
+            "instagram": "https://www.instagram.com/_gungunn04?igsh=MXJkNTludmo5aHUyag",
+            "linkedin": "https://linkedin.com/akhil"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Abhilav Bhardwaj ",
+        "position": "Executive Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FAbhilav_Bhardwaj%20.jpg?alt=media&token=fd341628-ed26-479d-8201-016bf8d8d53a",
+        "social": {
+            "instagram": "https://www.instagram.com/abhilavbhardwaj?igsh=MW54Yml5dnN6MmdkdQ==",
+            "linkedin": "https://www.linkedin.com/in/abhilavbhardwaj"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Ajay Kumar ",
+        "position": "Executive Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FAjay.jpg?alt=media&token=e17c47d3-bed6-48c9-ba91-6a2ef2f89ecc",
+        "social": {
+            "instagram": "https://www.instagram.com/niol_ajay_45?igsh=eHR3YjV5ZDdobXZr",
+            "linkedin": "https://www.linkedin.com/in/ajay-kumar-644b72303"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Hariom Saini ",
+        "position": "Executive Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2Fhariom_saini.jpg?alt=media&token=05beaa1d-40ff-43dd-9ffe-04af9f0f450d",
+        "social": {
+            "instagram": "https://www.instagram.com/atulsaini2457?igsh=MTB1djJtOTN3ZnpxNA==",
+            "linkedin": "https://www.linkedin.com/in/hariom-saini-5a584b320"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Jai Prakash ",
+        "position": "Executive Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FJai%20prakash%20.jpg?alt=media&token=3e24e10f-abbe-460c-ba85-94ea1fbb9a02",
+        "social": {
+            "instagram": "https://www.instagram.com/_xtreme_003?igsh=MTVzZ3I2MTJpYjJo",
+            "linkedin": ""
+        }
+    },
+    {
+        "id": 10,
+        "name": "Prikshit",
+        "position": "Executive Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FPrikshit%20.jpg?alt=media&token=05ef7b15-7f0f-4710-b44f-a75ed4a21421",
+        "social": {
+            "instagram": "https://www.instagram.com/rajput_prikshit_13?igsh=MWRuaHB2OHkwOGdqNQ==",
+            "linkedin": ""
+        }
+    },
+    {
+        "id": 11,
+        "name": "Noveen",
+        "position": "Executive Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FIMG_20240212_214555.jpg?alt=media&token=699092e3-767c-4c08-8b31-bd91d1bc6a1c",
+        "social": {
+            "instagram": "https://www.instagram.com/noveen_kumar_?igsh=emx0OXFycm9jZHc%3D",
+            "linkedin": "https://linkedin.com/akhil"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Param Sohal",
+        "position": "Executive Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FIMG_8215.jpg?alt=media&token=2a7557d7-324e-4ddd-9276-a3baef536102",
+        "social": {
+            "instagram": "https://instagram.com/akhil",
+            "linkedin": "https://linkedin.com/akhil"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Pranjli Bisht",
+        "position": "Executive Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2F1707755330173.jpg?alt=media&token=a6597af9-b062-4f72-a36d-7ddd468d27ad",
+        "social": {
+            "instagram": "https://www.instagram.com/praanjliiiii?igsh=YzN2MXo1ZW0zZjZq",
+            "linkedin": "https://linkedin.com/akhil"
+        }
+    },
+    {
+        "id": 14,
+        "name": " Samtan",
+        "position": "Executive Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2F23bch057.jpg?alt=media&token=a4479323-013b-4f19-8d5c-a99247af9ad8",
+        "social": {
+            "instagram": "https://www.instagram.com/samtanzzz?igsh=MWRuOXU5dGViNTZ0OA==",
+            "linkedin": "https://linkedin.com/akhil"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Tushar Singh",
+        "position": "Executive Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2Fme12.jpg?alt=media&token=56ac717e-54c8-40d0-bd5e-3ff06ed09299",
+        "social": {
+            "instagram": "https://www.instagram.com/tushar.singh?igsh=MWxsbjRoNHRibWNvdg%3D%3D",
+            "linkedin": "https://www.linkedin.com/in/tushar-singh-488262178"
+        }
+    }
+]

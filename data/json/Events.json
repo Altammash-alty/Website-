@@ -1,0 +1,18 @@
+[
+    {
+        "eventId": "1",
+        "title": "Nimbus 2024 TechFest",
+        "date": "2024-04-12",
+        "location": "NIT Hamirpur",
+        "description": "Annual technical fest of NIT Hamirpur",
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+    },
+    {
+        "eventId": "2",
+        "title": "Chemical Engineering Symposium",
+        "date": "2024-09-15",
+        "location": "Auditorium",
+        "description": "Symposium on modern chemical engineering trends.",
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+    }
+]

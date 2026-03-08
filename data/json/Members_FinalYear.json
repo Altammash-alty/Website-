@@ -1,0 +1,172 @@
+[
+    {
+        "id": 100,
+        "name": "Aditya Saroch",
+        "position": "Final Year Member",
+        "image": "https://raw.githubusercontent.com/akhil683/Hermetica-Club/refs/heads/main/src/assets/CC/Aditya.jpeg",
+        "social": {
+            "instagram": "https://www.instagram.com/adisaroch_02/?igshid=Mzc0YWU1OWY%3D",
+            "linkedin": "https://www.linkedin.com/in/aditya-saroch-75a458237/"
+        }
+    },
+    {
+        "id": 200,
+        "name": "Nikhil Jadon",
+        "position": "Final Year Member",
+        "image": "https://raw.githubusercontent.com/akhil683/Hermetica-Club/refs/heads/main/src/assets/CC/Nikhil.jpeg",
+        "social": {
+            "instagram": "https://www.instagram.com/jnikhil979/?igshid=Mzc0YWU1OWY%3D",
+            "linkedin": "https://www.linkedin.com/in/nikhil-singh-jadon-733845251/"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Akansha",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2Fakanksha.jpg?alt=media&token=ec257a85-bcb9-4e16-8b2d-66392132ab81",
+        "social": {
+            "instagram": "https://www.instagram.com/_akanksha_031/?igsh=MWZtMmR2bHVoZmU5ZQ%3D%3D&utm_source=qr#",
+            "linkedin": "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHmDp2Sx2fsswAAAZSD9x4w3IhRJruoFASQ2bUZYWFIWSvegdA-XuPFq6GONNpFqC-lU4oD882fW31ZfKWbJNe5JrIHYdwh3TO1GmhJgKfudDI133BPZzW_pMhZApdg_MWz9l4=&original_referer=https://www.teamhermetica.in/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fajay-sharma-270bb922a"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Aryan Anand",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2FAryan%20(1).jpg?alt=media&token=2d356186-3401-4740-9550-dac11c83803f",
+        "social": {
+            "instagram": "https://www.instagram.com/aryan_._anand/?igshid=ZDdkNTZiNTM%3D",
+            "linkedin": "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFApZTOPQoszQAAAZSD-mnwNUYaEppCIKLNscNdnbFPxMYPWCmiTXadLdhfCguN7a6qwk66guzJizuhT9_Lfrh8JGf-vFgjVvlzV7VmXgk69XkoZHxs2cuWt2URTvEWkyXtU70=&original_referer=https://www.teamhermetica.in/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faryan-anand-260648219%2F"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Chaitanya Bhopal",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2Fchaitanya_476x476.jpg?alt=media&token=684ed7e2-9862-4d75-ae9a-1de7691e7099",
+        "social": {
+            "instagram": "https://www.instagram.com/chainsaw_sheep/?igsh=cmR3Z3pub3N5aGxk#",
+            "linkedin": "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGJ3ji_EjGTvQAAAZSD-5LQEom0iICD4dcfa90oY-Zcwp-3bDMZJxh1IDNDAakYWK4z_DNauElkqw-gPprX6qMu0WLTP8dmK01rezWGhCEc6tB1ItNjhZWyEmLRT0sJDalxkqs=&original_referer=https://www.teamhermetica.in/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchaitanya-bhopal-ba4264237"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Dhananjay",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2Fdhananjay.png?alt=media&token=8163b1bb-915c-4bc7-9e1e-18deba048b07",
+        "social": {
+            "instagram": "https://www.instagram.com/dhananjay39567/?igsh=MW15MmI1cHAwN3I0Nw%3D%3D#",
+            "linkedin": "https://www.linkedin.com/in/dhananjay-poshta-724274266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Dheeraj Chouhan",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2Fdheeraj.jpg?alt=media&token=ce113c18-f8d4-42a6-be2c-ca6e8b0de129",
+        "social": {
+            "instagram": "https://www.instagram.com/_dheerajchouhan/?igsh=YmtpZ21vYzB2cTY3#",
+            "linkedin": "https://www.linkedin.com/in/dhananjay-poshta-724274266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+    },
+    {
+        "id": 7,
+        "name": "ManVijay Singh",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2Fmanvijay1.jpg?alt=media&token=44ef7fc3-cae4-49e2-85de-b5e129c3f8ab",
+        "social": {
+            "instagram": "https://www.instagram.com/manvijay_60/?igsh=dWM0d3kxd2o5bWpx#",
+            "linkedin": ""
+        }
+    },
+    {
+        "id": 8,
+        "name": "Manoj Manda",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2FManoj%20Manda.jpg.png?alt=media&token=28e9c44e-2923-43c9-9a91-0d400c6ad44f",
+        "social": {
+            "instagram": "https://www.instagram.com/manojmanda461/?igsh=MXZkNGs5ZTE2YjNoeQ%3D%3D#",
+            "linkedin": "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHwXUlI3-Mb5QAAAZSNNclgogVxewb83fYPjES_jqKhUKX7lsrih-wzz4MuvGcBTVESLKS4AwJHcvSVtPIA0pG4c7qoabxsKfRyXffn1FQR5n8CYoRV9SKBclhbtnrnypeHWvk=&original_referer=https://www.teamhermetica.in/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmanoj-manda-635127229%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Mayank Dogra",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2Fmayank1.jpg?alt=media&token=50054068-b013-48c6-81ef-3885435d4024",
+        "social": {
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/mayank-dogra-b66481242"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Ojas Sharma",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2Fojas1%20(1).jpg?alt=media&token=fe6e30ae-fa3a-4bdb-ab5f-ef2f70049f68",
+        "social": {
+            "instagram": "https://www.instagram.com/.mob./?igshid=Mzc0YWU1OWY%3D",
+            "linkedin": "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fprofile%2Fin%2Fojas-sharma-726642237%2F"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Om Giri",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2Fom1.jpg?alt=media&token=d62cc560-484f-4bcc-aee7-637ce7dfd69c",
+        "social": {
+            "instagram": "https://www.instagram.com/omgiri_22/?igsh=eW85OWFkdTBnc3li#",
+            "linkedin": "https://www.linkedin.com/in/om-giri-b6313722a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Pawan Tiwari",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2Fpawan.jpg?alt=media&token=13e2d253-7f27-4308-bb72-e2eabac6b47d",
+        "social": {
+            "instagram": "https://www.instagram.com/pawantiwadi.09/#",
+            "linkedin": "https://www.linkedin.com/in/pawantiwari-nith"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Roushan Kumar",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2Froushan.jpg?alt=media&token=026bb071-6f43-418e-9d6a-7321d693fffc",
+        "social": {
+            "instagram": "https://www.instagram.com/roushanroy111/?igsh=OGQ5ZDc2ODk2ZA%3D%3D#",
+            "linkedin": "https://www.linkedin.com/in/roushan-kumar-a31195230"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Sakshi Sagar",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2Fsakshi.jpg?alt=media&token=d38afe46-568e-4179-b1a3-d8d239fedfa4",
+        "social": {
+            "instagram": "https://www.instagram.com/shiv._.ansh.2?igsh=d3N1NG4yOWhldWNo",
+            "linkedin": "https://www.linkedin.com/in/sakshi-sagar-8a458a22a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Shivansh",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2Fshivansh.jpg?alt=media&token=4ae7ad1b-313f-4d2a-8618-2ceffda10c16",
+        "social": {
+            "instagram": "https://www.instagram.com/shiv._.ansh.2?igsh=d3N1NG4yOWhldWNo",
+            "linkedin": "https://www.linkedin.com/in/shivanshhh-k-513451237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Tushar Singh",
+        "position": "Final Year Member",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F3rd%20year%2Fme12.jpg?alt=media&token=56ac717e-54c8-40d0-bd5e-3ff06ed09299",
+        "social": {
+            "instagram": "https://www.instagram.com/tushar.singh?igsh=MWxsbjRoNHRibWNvdg%3D%3D",
+            "linkedin": "https://www.linkedin.com/in/tushar-singh-488262178"
+        }
+    }
+]

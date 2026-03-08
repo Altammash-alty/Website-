@@ -1,0 +1,18 @@
+[
+    {
+        "lectureId": "1",
+        "speaker": "Dr. A.P. Singh",
+        "topic": "Future of Sustainable Chemical Engineering",
+        "date": "2023-11-20",
+        "designation": "Professor at IIT Delhi",
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+    },
+    {
+        "lectureId": "2",
+        "speaker": "Riya Sharma",
+        "topic": "Process Safety Management",
+        "date": "2024-01-10",
+        "designation": "Lead Engineer, Reliance Industries",
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+    }
+]
