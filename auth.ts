@@ -14,14 +14,16 @@ import {
 } from "./lib/db/schema"
 import { db } from "./lib/db/db"
 
+const isDatabaseAvailable = !!process.env.DATABASE_URL;
+
 export const authOptions =
   {
-    adapter: DrizzleAdapter(db, {
+    adapter: isDatabaseAvailable ? DrizzleAdapter(db, {
       usersTable,
       accountsTable,
       sessionsTable: sessions,
       verificationTokensTable: verificationTokens
-    }),
+    }) : undefined,
     providers: [
       Google({
         clientId: AUTH_GOOGLE_ID,
@@ -30,9 +32,8 @@ export const authOptions =
     ],
     secret: AUTH_SECRET,
 
-    // Store session in database
     session: {
-      strategy: "database"
+      strategy: isDatabaseAvailable ? "database" : "jwt"
     },
 
   } satisfies NextAuthConfig

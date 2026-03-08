@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Space_Grotesk, Libre_Baskerville, Montserrat } from "next/font/google";
+import { Space_Grotesk, Libre_Baskerville, Montserrat, Orbitron } from "next/font/google";
 import { Navbar } from "@/components/Navbar";
 import { SessionProvider } from "next-auth/react";
 import { Toaster } from "@/components/ui/toaster";
@@ -26,6 +26,12 @@ const montserrat = Montserrat({
   subsets: ["latin"],
   weight: ["700", "800", "900"],
   variable: "--font-montserrat",
+});
+
+const orbitron = Orbitron({
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-orbitron",
 });
 
 // Metadata
@@ -81,7 +87,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <SessionProvider>
-        <body className={`${spaceGrotesk.className} ${libreBaskerville.variable} ${montserrat.variable} antialiased bg-black`}>
+        <body className={`${spaceGrotesk.className} ${libreBaskerville.variable} ${montserrat.variable} ${orbitron.variable} antialiased bg-black`}>
           <Navbar />
           <Cursor />
           <SmoothScroll>
