@@ -3,30 +3,35 @@
         "projectId": "dummy-2026-0",
         "name": "Bio-Char Enhanced Microbial Fuel Cells with BMS",
         "year": "2026",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg",
+        "description": "This project develops biochar-based Microbial Fuel Cells (MFCs) to generate electricity from organic waste. Biochar acts as a low-cost, sustainable electrode that improves electron transfer and microbial activity. A Battery Management System (BMS) stores and stabilizes the generated power, enabling it to run small devices like an RC car."
     },
     {
         "projectId": "dummy-2026-1",
         "name": "Sugar Derived Biomimetic Polymer Column For Wastewater Treatment",
         "year": "2026",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg",
+        "description": "This project develops a sugar-derived biomimetic polymer column for wastewater purification. The eco-friendly system combines adsorption, hydrophobic oil trapping, and flocculation to remove dyes, heavy metals, microplastics, and oils simultaneously. It is regenerable, cost-effective, and scalable, offering a sustainable alternative to conventional water treatment technologies."
     },
     {
         "projectId": "dummy-2026-2",
         "name": "Co Doped V2O5 Sensor Monitoring System",
         "year": "2026",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg",
+        "description": "This project develops a low-cost dual gas sensing system to detect ammonia (NH₃) and hydrogen sulfide (H₂S) using Co-doped V₂O₅ sensors on graphite electrodes. An Arduino processes resistance changes to monitor gas concentration in real time, while a humidity sensor improves accuracy. The system enhances safety monitoring in industrial and environmental settings"
     },
     {
         "projectId": "dummy-2026-3",
         "name": "Sorbent Semi-Autonomous Marine Drifter",
         "year": "2026",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg",
+        "description": "Sorbent Semi – Autonomous Marine Drifter (SSAMD) is an IoT-based RC boat designed to clean oil spills from water bodies. Using metal disc skimmers, sensors, and an ESP32 controller, it collects oil while providing real-time monitoring. The system is portable, cost-effective, and enables remote operation for efficient small-scale oil spill cleanup."
     },
     {
         "projectId": "dummy-2026-4",
         "name": "AeroVolt Design and Fabrication",
         "year": "2026",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg",
+        "description": "The AeroVolt project develops a compact aerodynamic test rig to study how a blade behaves under controlled airflow. It uses a bell-shaped inlet, dual honeycomb flow straighteners, and a contraction section to create smooth, stable air. This setup helps analyze blade strength, vibration, and efficiency safely and accurately."
     }
 ]

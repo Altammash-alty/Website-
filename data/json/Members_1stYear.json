@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Aakarsh",
         "position": "Volunteer",
-        "image": "images/FirstYr/Aakarsh.png",
+        "image": "/images/FirstYr/Aakarsh.png",
         "social": {
             "instagram": "https://www.instagram.com/aakarsh_5911?igsh=MTg1MmtpOXNodHVrNw==",
             "linkedin": "https://www.linkedin.com/in/aakarsh-bhardwaj-6a7b553ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
@@ -13,7 +13,7 @@
         "id": 2,
         "name": "Aapra Sharma",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Fsahu.jpg?alt=media&token=75654048-8c76-41d5-aeb1-3354a859d5bb",
+        "image": "/images/FirstYr/Aapra.jpg",
         "social": {
             "instagram": "https://www.instagram.com/_.aapra._?igsh=MWFyMm83cmFkN3p1ag==",
             "linkedin": "https://www.linkedin.com/in/aapra-sharma-846056365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
@@ -23,7 +23,7 @@
         "id": 3,
         "name": "Altaf",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2FIMG-20240402-WA0003%20(1).jpg?alt=media&token=d4c3ea18-3a22-43f1-9cd5-87cd0e9c8eba",
+        "image": "/images/FirstYr/Altaf.jpg.jpeg",
         "social": {
             "instagram": "",
             "linkedin": "https://www.linkedin.com/in/altaf-sheikh-0865443a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
@@ -33,7 +33,7 @@
         "id": 4,
         "name": "Anshu Gautam",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2F22bch005.jpg?alt=media&token=2d6b1307-b9d8-49cf-b8cf-6605f517eef1",
+        "image": "/images/FirstYr/Anshu.jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/_anshu_gautam._?igsh=bmY2eHFnNG1vZjBj",
             "linkedin": "https://www.linkedin.com/in/anshu-gautam-088636398?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
@@ -43,7 +43,7 @@
         "id": 5,
         "name": "Devansh Chauhan",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2F22bch005.jpg?alt=media&token=2d6b1307-b9d8-49cf-b8cf-6605f517eef1",
+        "image": "/images/FirstYr/DevanshC.png",
         "social": {
             "instagram": "https://www.instagram.com/dvn_shhh?igsh=MTF1OXU0YW90OW4weg==",
             "linkedin": "https://www.linkedin.com/in/devansh-b39581310?utm_source=share_via&utm_content=profile&utm_medium=member_android"
@@ -53,7 +53,7 @@
         "id": 6,
         "name": "Devansh Sen",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2FScreenshot_20240213-172048_Gallery.jpg?alt=media&token=9b21e1ac-ac02-4223-afac-8ec899c2e06f",
+        "image": "/images/FirstYr/Devansh Sen.jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/_devansh.sen_?igsh=MTFlOWZoYzl4dDBncg==",
             "linkedin": "https://www.linkedin.com/in/devansh-sen-535364315?utm_source=share_via&utm_content=profile&utm_medium=member_android"
@@ -63,7 +63,7 @@
         "id": 7,
         "name": "Dhruv Singh Kanwar",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2FIMG_20230424_224511_152.jpg?alt=media&token=dde934aa-5fbd-47a8-a2e7-b646bfb150eb",
+        "image": "",
         "social": {
             "instagram": "https://www.instagram.com/mag_dhruvkanwar?igsh=MWQwOHljdjZkeDBl&utm_source=qr",
             "linkedin": "https://www.linkedin.com/in/dhruv-singh-kanwar-b60576399?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
@@ -73,7 +73,7 @@
         "id": 8,
         "name": "Dimpal Sidhi",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2FIMG-20240128-WA0100.jpg?alt=media&token=edd0e5e1-bc1c-4e8b-9318-3d1793f6907c",
+        "image": "/images/FirstYr/dimpal .jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/di_mpalnith0001?igsh=MWV6cmhiODl4M253NA==",
             "linkedin": "https://www.linkedin.com/in/dimpal-sidhi-2b99203b5?utm_source=share_via&utm_content=profile&utm_medium=member_android"
@@ -83,7 +83,7 @@
         "id": 9,
         "name": "Harshit Dhiman",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Fkhushboo.jpg?alt=media&token=94b117d4-faa2-47ae-ae9a-33c67185319b",
+        "image": "/images/FirstYr/Harshit.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/profile_harry?igsh=NHN6Y211dTkwOGc3",
             "linkedin": "https://www.linkedin.com/in/harshit-dhiman-66737638b?utm_source=share_via&utm_content=profile&utm_medium=member_android"
@@ -93,7 +93,7 @@
         "id": 10,
         "name": "Ishan",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Fmehak.jpg?alt=media&token=5e072a0d-090e-45b8-925f-739ec1a61667",
+        "image": "/images/FirstYr/Ishan.jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/ishan.1_1?igsh=MTJiZ3NuMDBjNXp6Nw==",
             "linkedin": "https://www.linkedin.com/in/ishan-66a5473a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
@@ -103,19 +103,19 @@
         "id": 11,
         "name": "Jasmer Singh",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2F11f46452-e41c-459e-b86a-b553f956fb92.jpeg?alt=media&token=f7c5e1bb-2997-476b-8ba1-4bf2efdbe945",
+        "image": "/images/FirstYr/Jasmer.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/jaz.dhillxn01?igsh=MTE0aG54ODF2c2hxcw==",
-            "linkedin": "https://linkedin.com/akhil"
+            "linkedin": ""
         }
     },
     {
         "id": 12,
         "name": "Komal Kanwar",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Fpriyanshu.jpg?alt=media&token=6c08fdcc-05b4-4f28-bf49-c3422734f774",
+        "image": "/images/FirstYr/Komal Kanwar .jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/shivaniroy7004?igsh=MWNpbjZwOGd0NjV6MQ==",
+            "instagram": "",
             "linkedin": "https://www.linkedin.com/in/komal-kanwar-b931b7386?utm_source=share_via&utm_content=profile&utm_medium=member_android"
         }
     },
@@ -123,7 +123,7 @@
         "id": 13,
         "name": "Kritika Sharma",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
+        "image": "/images/FirstYr/kritika.jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/_kritika_sharma006?utm_source=qr&igsh=MTY4aHo4dnh3Mm5hcg==",
             "linkedin": "https://www.linkedin.com/in/kritika-sharma-66b25a385?utm_source=share_via&utm_content=profile&utm_medium=member_android"
@@ -133,7 +133,7 @@
         "id": 14,
         "name": "Manan Mehra",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
+        "image": "/images/FirstYr/Manan Mehra.jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/manan.mehra.05?igsh=MXd3aDVlc3o5ZmFhZw==",
             "linkedin": "https://www.linkedin.com/in/manan-mehra-378245385?utm_source=share_via&utm_content=profile&utm_medium=member_android"
@@ -143,7 +143,7 @@
         "id": 15,
         "name": "Meenakshi",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
+        "image": "/images/FirstYr/Meenakshi .webp",
         "social": {
             "instagram": "https://www.instagram.com/meenakshi32515?igsh=Z3R1dmo1a2lhajM=",
             "linkedin": "https://www.linkedin.com/in/meenakshi-singh-8305a43b0"
@@ -153,7 +153,7 @@
         "id": 16,
         "name": "Nainsi",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
+        "image": "/images/FirstYr/Nainsi.jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/na.in.si?igsh=MWg0NTc2eXF1bDVvZA==",
             "linkedin": "https://www.linkedin.com/in/nainsi-118000380?utm_source=share_via&utm_content=profile&utm_medium=member_android"
@@ -163,7 +163,7 @@
         "id": 17,
         "name": "Nakul Yadav",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
+        "image": "/images/FirstYr/Nakul.jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/nakul_yadav19?igsh=MXIybmo5dmlxcWk2aQ==",
             "linkedin": "https://www.linkedin.com/in/nakul-yadav-00b92933a"
@@ -173,7 +173,7 @@
         "id": 18,
         "name": "Nallabolu Rithvik Reddy",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
+        "image": "/images/FirstYr/Rrithvik Nallabolu.jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/rithvik_reddy_.n?igsh=dDZjOW5xNWw1eGh2",
             "linkedin": "https://www.linkedin.com/in/rithvik-reddy-nallabolu-50b274399?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
@@ -183,7 +183,7 @@
         "id": 19,
         "name": "Rahul Chaudhary",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
+        "image": "/images/FirstYr/Rahul Chaudhary .jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/r_x_h_u_ll?igsh=MXRqZm1oczVtZmE4Mg==",
             "linkedin": "https://www.linkedin.com/in/rahul-chaudhary-440a093b5?utm_source=share_via&utm_content=profile&utm_medium=member_android"
@@ -193,7 +193,7 @@
         "id": 20,
         "name": "Ridhima Bhauta",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
+        "image": "/images/FirstYr/Ridhima Bhauta .jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/_ridh.zz?igsh=MW9xdGt2bGtkczNhbA==",
             "linkedin": "https://www.linkedin.com/in/ridhima-bhauta-5431783aa"
@@ -203,7 +203,7 @@
         "id": 21,
         "name": "Rohit Raj Mishra",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
+        "image": "/images/FirstYr/Rohit Raj Mishra.png",
         "social": {
             "instagram": "https://www.instagram.com/_.rohit._2901/",
             "linkedin": "https://www.linkedin.com/in/rohit-mishra-a16883380/"
@@ -213,7 +213,7 @@
         "id": 22,
         "name": "Shivani Kumari",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
+        "image": "/images/FirstYr/Shivani.png",
         "social": {
             "instagram": "https://www.instagram.com/shivaniroy7004?igsh=MWNpbjZwOGd0NjV6MQ==",
             "linkedin": "https://www.linkedin.com/in/shivani-kumari-9195a4385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
@@ -223,7 +223,7 @@
         "id": 23,
         "name": "Suhani Sood",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
+        "image": "/images/FirstYr/SUHANI SOOD.jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/__suhaniiee__?igsh=NHFiaWEwcmQ2dDcx",
             "linkedin": "https://www.linkedin.com/in/suhani-sood-86a465384?utm_source=share_via&utm_content=profile&utm_medium=member_android"
@@ -233,7 +233,7 @@
         "id": 24,
         "name": "Uday Saini",
         "position": "Volunteer",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
+        "image": "/images/FirstYr/Uday Saini.jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/uday_jadam___?igsh=MWdiNW5seDVneDl3ZQ==",
             "linkedin": "https://www.linkedin.com/in/uday-saini-435493338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"

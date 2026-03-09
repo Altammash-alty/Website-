@@ -35,7 +35,11 @@ const nextConfig: NextConfig = {
         pathname: "/**",
       },
     ]
-  }
+  },
+  devIndicators: {
+    appIsrStatus: false,
+    buildActivity: false,
+  },
 };
 
 export default nextConfig;

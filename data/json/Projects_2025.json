@@ -3,30 +3,35 @@
         "projectId": "dummy-2025-0",
         "name": "CO2 Sequestration Using Algae Bioreactor",
         "year": "2025",
-        "image": "/images/Algae bioreactor .jpeg"
+        "image": "/images/Algae bioreactor .jpeg",
+        "description": "This project develops a compact algae-based bioreactor designed to capture and utilize CO₂ through photosynthesis. The system uses microcontrollers for automation and real-time monitoring while producing biomass or biofuel. It offers a cost-effective and sustainable solution for carbon capture, supporting research, education, and industrial environmental applications."
     },
     {
         "projectId": "dummy-2025-1",
         "name": "ML Integrated Opticaal DIagnostics On Filter Media",
         "year": "2025",
-        "image": "/images/Ml Project.jpeg"
+        "image": "/images/Ml Project.jpeg",
+        "description": "This project develops a Point-of-Care diagnostic system that combines filter paper-based blood sampling, a microcontroller-controlled imaging module, and machine learning analysis. The system captures high-resolution images of blood samples and detects biomarkers such as glucose levels, hemoglobin concentration, and infection indicators for fast and accurate medical diagnosis"
     },
     {
         "projectId": "dummy-2025-2",
         "name": "Industrial Pipe Cleaning Bot",
         "year": "2025",
-        "image": "/images/Bot .jpeg"
+        "image": "/images/Bot .jpeg",
+        "description": "This project develops an advanced industrial pipe cleaning robot with retractable track belts that adjust to different pipe sizes and enable cleaning of vertical pipelines. The automated system improves cleaning precision, efficiency, and safety while reducing human exposure to hazardous environments and lowering operational costs in industrial maintenance."
     },
     {
         "projectId": "dummy-2025-3",
         "name": "Eco-solar Biocrafter",
         "year": "2025",
-        "image": "/images/Torrefaction.jpeg"
+        "image": "/images/Torrefaction.jpeg",
+        "description": "This project develops a solar-assisted torrefaction reactor to convert agricultural waste into valuable products such as bio-coal, furfural, acetic acid, and biogas. By using solar energy as the main heat source, the system improves biomass energy density while reducing fossil fuel use, operational costs, and environmental impact."
     },
     {
         "projectId": "dummy-2025-4",
         "name": "Quastra Space Heater",
         "year": "2025",
-        "image": "/images/Quastra.jpeg"
+        "image": "/images/Quastra.jpeg",
+        "description": "This project develops a compact, energy-efficient space heater using a microcontroller and a heat pump system. The device features automatic temperature control, remote operation, and energy-saving modes, making it ideal for home heating applications."
     }
 ]

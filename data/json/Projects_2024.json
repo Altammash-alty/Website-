@@ -3,48 +3,56 @@
         "projectId": "dummy-2024-0",
         "name": "Cementious Material From Agro Waste and Fly Ash",
         "year": "2024",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "image": "/images/2024Projects/cement_agro_1773091853793.png",
+        "description": "This project develops a sustainable cementitious material using agro waste and fly ash, combining natural fibers for strength and durability. The eco-friendly mixture offers a cost-effective, eco-friendly alternative to traditional cement, reducing waste and improving construction efficiency."
     },
     {
         "projectId": "dummy-2024-1",
         "name": "Noise Proofing By Upcycling Agro Waste",
         "year": "2024",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "image": "/images/2024Projects/noise_proofing_1773091874984.png",
+        "description": "This project develops a sustainable noise-proofing solution using agro waste, creating eco-friendly insulation that reduces noise while providing thermal and acoustic benefits. The innovative approach offers a cost-effective, eco-friendly alternative to traditional materials, enhancing building insulation efficiency."
     },
     {
         "projectId": "dummy-2024-2",
         "name": "Electricity Generating Tiles",
         "year": "2024",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "image": "/images/2024Projects/solar_tiles_1773091893157.png",
+        "description": "This project develops a sustainable electricity-generating system using tiles embedded with solar cells, creating eco-friendly energy solutions for homes and buildings. The innovative approach offers a cost-effective, eco-friendly alternative to traditional energy sources, enhancing renewable energy accessibility."
     },
     {
         "projectId": "dummy-2024-3",
         "name": "Blending of Hydrogen in Natural Gas Pipelines",
         "year": "2024",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "image": "/images/2024Projects/hydrogen_blending_1773091909432.png",
+        "description": "This project develops a sustainable hydrogen blending system for natural gas pipelines, creating eco-friendly energy solutions for homes and buildings. The innovative approach offers a cost-effective, eco-friendly alternative to traditional energy sources, enhancing renewable energy accessibility."
     },
     {
         "projectId": "dummy-2024-4",
         "name": "Biolume Aquascape",
         "year": "2024",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "image": "/images/2024Projects/biolume_aquascape_1773091936817.png",
+        "description": "This project develops a sustainable biolume aquascape system using algae and microorganisms, creating eco-friendly energy solutions for homes and buildings. The innovative approach offers a cost-effective, eco-friendly alternative to traditional energy sources, enhancing renewable energy accessibility."
     },
     {
         "projectId": "dummy-2024-5",
         "name": "Industrial Pipe Cleaning Automated Machine",
         "year": "2024",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "image": "/images/2024Projects/pipe_cleaner_1773091952375.png",
+        "description": "This project develops a sustainable industrial pipe cleaning automated machine using advanced robotics and automation systems, creating eco-friendly energy solutions for homes and buildings. The innovative approach offers a cost-effective, eco-friendly alternative to traditional energy sources, enhancing renewable energy accessibility."
     },
     {
         "projectId": "dummy-2024-6",
         "name": "Ink From Carbon Soot",
         "year": "2024",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "image": "/images/Ink.png",
+        "description": "This project develops a sustainable ink production system using carbon soot, creating eco-friendly energy solutions for homes and buildings. The innovative approach offers a cost-effective, eco-friendly alternative to traditional energy sources, enhancing renewable energy accessibility."
     },
     {
         "projectId": "dummy-2024-7",
         "name": "Surfactant Reomoval By Organic Matter",
         "year": "2024",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "image": "/images/Surfactant.png",
+        "description": "This project develops a sustainable surfactant removal system using organic matter, creating eco-friendly energy solutions for homes and buildings. The innovative approach offers a cost-effective, eco-friendly alternative to traditional energy sources, enhancing renewable energy accessibility."
     }
 ]

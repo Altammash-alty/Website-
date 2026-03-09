@@ -5,7 +5,17 @@ import { motion } from 'framer-motion'
 import { Card } from './ui/card'
 import Image from 'next/image'
 import { Instagram, Linkedin } from 'lucide-react'
-import { MemberType } from '@/data/Members'
+export interface MemberType {
+  id: number | string;
+  name: string;
+  position: string;
+  image: string;
+  bio?: string;
+  social?: {
+    instagram?: string;
+    linkedin?: string;
+  };
+}
 
 const MemberCard = ({ member }: { member: MemberType }) => {
 
@@ -50,26 +60,22 @@ const MemberCard = ({ member }: { member: MemberType }) => {
 
             {/* Social Links */}
             <div className="flex gap-4">
-              {member?.social?.instagram && (
-                <a
-                  href={member?.social?.instagram}
-                  target="_blank"
-                  className="text-white hover:text-[#E1306C] transition-colors"
-                  aria-label={`instagram ${member.name}`}
-                >
-                  <Instagram className="h-5 w-5" />
-                </a>
-              )}
-              {member?.social?.linkedin && (
-                <a
-                  href={member?.social?.linkedin}
-                  target="_blank"
-                  className="text-white hover:text-[#0077B5] transition-colors"
-                  aria-label={`linkedin ${member?.name}`}
-                >
-                  <Linkedin className="h-5 w-5" />
-                </a>
-              )}
+              <a
+                href={member?.social?.instagram || "#"}
+                target="_blank"
+                className="text-white hover:text-[#E1306C] transition-colors"
+                aria-label={`instagram ${member.name}`}
+              >
+                <Instagram className="h-5 w-5" />
+              </a>
+              <a
+                href={member?.social?.linkedin || "#"}
+                target="_blank"
+                className="text-white hover:text-[#0077B5] transition-colors"
+                aria-label={`linkedin ${member?.name}`}
+              >
+                <Linkedin className="h-5 w-5" />
+              </a>
             </div>
           </div>
         </div>

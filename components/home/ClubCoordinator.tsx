@@ -12,6 +12,8 @@ const coordinators = [
     position: "Club Co-ordinator",
     image: '/images/Third Yr/Ajay.jpg.jpeg',
     bio: "Chemical Engineering student passionate about innovative solutions. Leading team projects and organizing technical events.",
+    instagram: "https://www.instagram.com/niol_ajay_45?igsh=eHR3YjV5ZDdobXZr",
+    linkedin: "https://www.linkedin.com/in/ajay-kumar-644b72303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   },
   {
     id: 2,
@@ -19,6 +21,8 @@ const coordinators = [
     position: "Club Co-ordinator",
     image: '/images/Third Yr/Aviral.jpg.jpeg',
     bio: "Specializing in mentoring juniors to reach their full potential. Passionate about driving innovation in chemical engineering.",
+    instagram: "https://www.instagram.com/_avi_hny_0099?igsh=MWZtdjg0dzVtOGo4dw%3D%3D",
+    linkedin: ""
   },
 ];
 
@@ -110,12 +114,16 @@ export default function ClubCoordinator() {
                       {coordinator.bio}
                     </p>
                     <div className="flex items-center gap-4 border-t border-white/10 pt-4">
-                      <a href="#" target="_blank" rel="noopener noreferrer" className="text-white hover:text-pink-500 hover:scale-110 transition-all">
-                        <Instagram className="w-5 h-5 sm:w-6 sm:h-6" />
-                      </a>
-                      <a href="#" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400 hover:scale-110 transition-all">
-                        <Linkedin className="w-5 h-5 sm:w-6 sm:h-6" />
-                      </a>
+                      {coordinator.instagram && (
+                        <a href={coordinator.instagram} target="_blank" rel="noopener noreferrer" className="text-white hover:text-pink-500 hover:scale-110 transition-all">
+                          <Instagram className="w-5 h-5 sm:w-6 sm:h-6" />
+                        </a>
+                      )}
+                      {coordinator.linkedin && (
+                        <a href={coordinator.linkedin} target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400 hover:scale-110 transition-all">
+                          <Linkedin className="w-5 h-5 sm:w-6 sm:h-6" />
+                        </a>
+                      )}
                     </div>
                   </div>
                 </div>

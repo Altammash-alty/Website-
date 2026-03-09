@@ -2,7 +2,7 @@
 import { motion } from 'framer-motion'
 import { Button } from '@/components/ui/Button'
 import React from 'react'
-import { Events } from '@/data/Events'
+import Events from '@/data/json/Events.json'
 import ProjectCard from '@/components/projects/ProjectCard'
 import SecondaryBackground from '@/components/SecondaryBackground'
 
@@ -22,7 +22,7 @@ const EventsPage = () => {
         <div className="flex flex-wrap justify-center gap-8">
           {Events.map((events) => (
             <div key={events.name} className="w-full sm:w-[calc(50%-1rem)] lg:w-[calc(25%-1.5rem)] max-w-[350px]">
-              <ProjectCard project={events} />
+              <ProjectCard project={events} noHover={true} />
             </div>
           ))}
         </div>

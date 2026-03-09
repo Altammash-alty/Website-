@@ -11,10 +11,10 @@ const GalleryPage = () => {
   const [filteredGallery, setFilteredGallery] = useState(hermeticaGallery.previous_nimbus)
 
   const tabs = [
-    { id: "previous_nimbus", label: "Nimbus 2k24" },
+    { id: "previous_nimbus", label: "Nimbus 2k25" },
     { id: "pre_nimbus", label: "Pre-Nimbus" },
     { id: "hermetica_day", label: "Hermetica Day" },
-    { id: "dwsim", label: "DWSIM" },
+    { id: "dwsim", label: "COMSOL" },
     { id: "awareness", label: "Awareness" },
   ]
 

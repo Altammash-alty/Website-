@@ -21,7 +21,7 @@ const ReviewList = async ({ projectId }: { projectId: string | null }) => {
     <div className="space-y-6">
       <span className='text-2xl text-white'>Reviews</span>
       {reviews.length > 0 ? (
-        reviews.map((review) => (
+        reviews.map((review: any) => (
           <Card key={review.id} className="bg-white/5 border-none p-6 rounded-3xl">
             <div className="flex justify-between items-start mb-4">
               <div className='flex gap-4 items-center'>

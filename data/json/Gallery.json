@@ -1,14 +1,13 @@
 {
     "previous_nimbus": [
-        "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Gallery%2FWorkshops%2Flaksngnrs.jpeg?alt=media&token=e1aff17f-5160-4360-81fa-7434ceb639c9",
         "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Gallery%2FWorkshops%2Fklnasldknf.jpeg?alt=media&token=4a78704d-a18e-4958-80c7-b8c742cbe934",
         "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Gallery%2FWorkshops%2Flaskdfnlaksndg.jpeg?alt=media&token=fe0c7718-62cf-4a42-a594-c5cfb6fe7342",
         "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Gallery%2FWorkshops%2FIMG_4959.jpg?alt=media&token=d100fa9d-d394-4212-a5ad-1576931cf267",
-        "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Gallery%2FWorkshops%2FIMG_3378.jpg?alt=media&token=f26e9924-8d9a-4432-8bde-0e43d1ed1492",
-        "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Gallery%2FWorkshops%2FIMG_3411.jpg?alt=media&token=dbbe1ef7-d122-4012-bace-a02a42eb5a7d",
-        "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Gallery%2FWorkshops%2FIMG_5205.jpg?alt=media&token=2f8b6f83-d591-4f0d-866a-29d11aa8a685",
         "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Gallery%2FWorkshops%2FIMG_5199.jpg?alt=media&token=57cd56f2-10e5-4a10-b3d6-4e8909edb9f6",
-        "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Gallery%2FWorkshops%2FIMG_3381.jpg?alt=media&token=b0dc81eb-bff8-4b3c-a477-422ff7a6ba2f"
+        "/images/Guest Lectures/img1.jpeg",
+        "/images/Guest Lectures/img2.jpeg",
+        "/images/Guest Lectures/img3.jpeg",
+        "/images/Guest Lectures/img4.jpeg"
     ],
     "pre_nimbus": [],
     "hermetica_day": [],

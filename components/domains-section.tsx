@@ -44,15 +44,7 @@ const domains = [
     gradient: "from-emerald-500/20 to-teal-500/20",
     borderGlow: "group-hover:border-emerald-400/50 group-hover:shadow-[0_0_30px_rgba(16,185,129,0.3)]",
     link: "/about"
-  },
-  {
-    title: "Art & Craft",
-    icon: Brush,
-    description: "Blending creativity and technical skill to create unique handcrafted innovations and artworks.",
-    gradient: "from-fuchsia-500/20 to-violet-500/20",
-    borderGlow: "group-hover:border-fuchsia-400/50 group-hover:shadow-[0_0_30px_rgba(217,70,239,0.3)]",
-    link: "/gallery"
-  },
+  }
 ];
 
 export default function DomainsSection() {
@@ -101,16 +93,19 @@ export default function DomainsSection() {
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true, margin: "-100px" }}
-            className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6"
+            className="flex flex-wrap justify-center gap-6"
           >
             {domains.map((domain) => (
-              <Link href={domain.link} key={domain.title}>
+              <Link
+                href={domain.link}
+                key={domain.title}
+                className="w-full md:w-[calc(50%_-_12px)] lg:w-[calc(33.33%_-_16px)] flex"
+              >
                 <motion.div
                   variants={itemVariants}
-                  whileHover={{ y: -10, rotateX: 5, rotateY: 5 }}
+                  whileHover={{ y: -10 }}
                   transition={{ type: "spring", stiffness: 300, damping: 20 }}
-                  className={`group relative rounded-3xl p-6 sm:p-8 bg-white/5 border border-white/10 backdrop-blur-xl overflow-hidden cursor-pointer ${domain.borderGlow} transition-all duration-500 magnetic w-full h-full`}
-                  style={{ transformStyle: "preserve-3d", perspective: "1000px" }}
+                  className={`group relative rounded-3xl p-6 sm:p-8 bg-white/5 border border-white/10 backdrop-blur-xl overflow-hidden cursor-pointer ${domain.borderGlow} transition-all duration-500 w-full flex flex-col`}
                 >
                   <div className={`absolute inset-0 bg-gradient-to-br ${domain.gradient} opacity-0 group-hover:opacity-100 transition-opacity duration-500 pointer-events-none`} />
 

@@ -13,8 +13,9 @@
         "id": 2,
         "name": "Akshit",
         "position": "Executive Member",
+        "image": "/images/Second Yr/Akshit.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/adityabhaik01?igsh=MmFkcm45MzU1Ymdx",
+            "instagram": "",
             "linkedin": ""
         }
     },
@@ -22,34 +23,37 @@
         "id": 3,
         "name": "Altamash",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FAkshit.jpg?alt=media&token=304bcc28-5353-4570-b613-d370d6b93eec",
+        "image": "/images/Second Yr/alt.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/akshit8_?igsh=cm5iZjFqaWNxZ3Vj",
-            "linkedin": "https://linkedin.com/akhil"
+            "instagram": "",
+            "linkedin": ""
         }
     },
     {
         "id": 4,
         "name": "Ashmi",
         "position": "Executive Member",
+        "image": "/images/Second Yr/Ashmi.png",
         "social": {
-            "instagram": "https://www.instagram.com/zzama_altamash?igsh=YnZ1OGY0aWpucTJ3",
-            "linkedin": "https://www.linkedin.com/in/altamash-undefined-356626335"
+            "instagram": "",
+            "linkedin": ""
         }
     },
     {
         "id": 5,
         "name": "Ayush",
         "position": "Executive Member",
+        "image": "/images/Second Yr/Ayush Rana.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/ansh_1m2?igsh=azZraTltMzVta3Zn",
-            "linkedin": "https://www.linkedin.com/in/ansh-parmar-2a5ba6348"
+            "instagram": "https://www.instagram.com/ayush.__rana?igsh=MTVyeXNja3A1MHhnYQ==",
+            "linkedin": "https://www.linkedin.com/in/ayush-rana-758503371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
     },
     {
         "id": 6,
         "name": "Chirag",
         "position": "Executive Member",
+        "image": "/images/Second Yr/Chirag Mehra.jpeg",
         "social": {
             "instagram": "",
             "linkedin": ""
@@ -59,92 +63,99 @@
         "id": 7,
         "name": "Deepankar",
         "position": "Executive Member",
+        "image": "/images/Second Yr/Deepankar.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/govind6561_?igsh=MWVkeWc2b3p5OHljcQ==",
-            "linkedin": "https://www.linkedin.com/in/govind-prajapati-b39569336"
+            "instagram": "",
+            "linkedin": ""
         }
     },
     {
         "id": 8,
         "name": "Govind",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FJatin%20Tanwar.jpg?alt=media&token=1df2785c-4468-4884-a123-530605c45d0e",
+        "image": "/images/Second Yr/Govind .jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/jatin_tanwar_/",
-            "linkedin": "https://www.linkedin.com/in/jatin-tanwar-0900b52aa/"
+            "instagram": "https://www.instagram.com/govind6561_?igsh=MWVkeWc2b3p5OHljcQ==",
+            "linkedin": "https://www.linkedin.com/in/govind-prajapati-b39569336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
     },
     {
         "id": 9,
         "name": "Jatin",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2Fkhushboo%20sharma.jpg?alt=media&token=c13844ea-90fd-472f-adbb-cd08abb96656",
+        "image": "/images/Second Yr/Jatin Tanwar.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/khushboo_sh_17?igsh=MWs2ZXY0MjBwcGd5Nw==",
-            "linkedin": "https://www.linkedin.com/in/khushboo-sharma-6b9415339"
+            "instagram": "https://www.instagram.com/jatin_tanwar___?igsh=dHB3MmZicGN4a3Rt",
+            "linkedin": "https://www.linkedin.com/in/jatin-tanwar-0900b52aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
     },
     {
         "id": 10,
         "name": "Manan",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FKhushi.jpg?alt=media&token=35f83352-d35b-48aa-ac0c-caba0b93e02c",
+        "image": "/images/Second Yr/Manan.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/_k.h.u.s.h.i_99?igsh=MTJ2M20ydXc0Z3ZyOA==",
-            "linkedin": "https://www.linkedin.com/in/khushi-singh-72786a348"
+            "instagram": "https://www.instagram.com/manannarnolia?igsh=MXJpemwxMjFuZWRpaw==",
+            "linkedin": "https://www.linkedin.com/in/manan-narnolia-8284b2334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
     },
     {
         "id": 11,
         "name": "Nikita",
         "position": "Executive Member",
+        "image": "/images/Second Yr/Nikita.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/xitiz1.8?igsh=MXE2NnNmcnFpZHZteA==",
-            "linkedin": "https://www.linkedin.com/in/kshitij-chauhan-b44873348"
+            "instagram": "",
+            "linkedin": ""
         }
     },
     {
         "id": 12,
         "name": "Nikhil",
         "position": "Executive Member",
+        "image": "/images/Second Yr/Nikhil.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/manannarnolia?igsh=MXJpemwxMjFuZWRpaw==",
-            "linkedin": ""
+            "instagram": "",
+            "linkedin": "http://www.linkedin.com/in/nikhil-b0726b347"
         }
     },
     {
         "id": 13,
         "name": "Sajal",
         "position": "Executive Member",
+        "image": "/images/Second Yr/sajal aluna.webp",
         "social": {
-            "instagram": "https://www.instagram.com/mayuritirole_30?igsh=cjA5aW04NXJteThq",
-            "linkedin": ""
+            "instagram": "https://www.instagram.com/sajal_aluna_19?igsh=d2hhY3A5a3lpbzNm",
+            "linkedin": "https://www.linkedin.com/in/sajal-aluna-44445536b"
         }
     },
     {
         "id": 14,
         "name": "Shivam",
         "position": "Executive Member",
+        "image": "/images/Second Yr/Shivam.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/priyyaanshhuu/?hl=en",
-            "linkedin": ""
+            "instagram": "https://www.instagram.com/shvm_ia?igsh=b3phdDczOXhsZnVo",
+            "linkedin": "https://www.linkedin.com/in/shvm-ia"
         }
     },
     {
         "id": 15,
         "name": "Sunidhi",
         "position": "Executive Member",
+        "image": "/images/Second Yr/Sunidhi.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/hit_ro_30?igsh=OWFsM2JjemhwdXhz",
-            "linkedin": ""
+            "instagram": "https://www.instagram.com/sunidhee_?igsh=ajBreGI4NWMzcDJ5",
+            "linkedin": "https://www.linkedin.com/in/sunidhi-tamak-279b44348"
         }
     },
     {
         "id": 16,
         "name": "Tanisha",
         "position": "Executive Member",
+        "image": "/images/Second Yr/Tanisha.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/sajal_aluna_19?igsh=d2hhY3A5a3lpbzNm",
+            "instagram": "https://www.instagram.com/tanisha_pathania?igsh=MWt5MnBiMHlmMGd5NA%3D%3D&utm_source=qr",
             "linkedin": ""
         }
     },
@@ -152,9 +163,10 @@
         "id": 17,
         "name": "Yashika",
         "position": "Executive Member",
+        "image": "/images/Second Yr/Yashika.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/shvm_ia?igsh=b3phdDczOXhsZnVo",
-            "linkedin": "https://www.linkedin.com/in/shivam-yadav-b02043323"
+            "instagram": "https://www.instagram.com/yashika_._8539?igsh=ZnplNHk2cmowMXMy&utm_source=qr",
+            "linkedin": "https://www.linkedin.com/in/yashika-20a1a7375?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
         }
     }
 ]

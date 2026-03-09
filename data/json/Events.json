@@ -1,18 +1,20 @@
 [
     {
-        "eventId": "1",
-        "title": "Nimbus 2024 TechFest",
-        "date": "2024-04-12",
-        "location": "NIT Hamirpur",
-        "description": "Annual technical fest of NIT Hamirpur",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "id": 2,
+        "name": "Kinetic League",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/events%2Ftarget-hit-center-arrows-vector-icon-illustration-79062034%20(1).jpg?alt=media&token=e31ecdd9-5d99-4dc6-8ff3-042e291cf870",
+        "year": "2024"
     },
     {
-        "eventId": "2",
-        "title": "Chemical Engineering Symposium",
-        "date": "2024-09-15",
-        "location": "Auditorium",
-        "description": "Symposium on modern chemical engineering trends.",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "id": 3,
+        "name": "Aqua Rocket 2.0",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/events%2Flkanselifn.jpeg?alt=media&token=8728cece-151e-4d5c-9139-fda7b57bc1a0",
+        "year": "2024"
+    },
+    {
+        "id": 4,
+        "name": "Vacuum Gun",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/events%2Flknaslkefn.jpeg?alt=media&token=84c59a75-4f44-428f-9db1-6a314bd732b7",
+        "year": "2024"
     }
 ]

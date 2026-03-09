@@ -1,18 +1,17 @@
 [
     {
-        "lectureId": "1",
-        "speaker": "Dr. A.P. Singh",
-        "topic": "Future of Sustainable Chemical Engineering",
-        "date": "2023-11-20",
-        "designation": "Professor at IIT Delhi",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "id": 1,
+        "name": "MBA: Experience the Transformation",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Guest%20Lectures%2Flkanslkfdn.jpeg?alt=media&token=03cba152-5c44-4e65-9f06-5ed487872883"
     },
     {
-        "lectureId": "2",
-        "speaker": "Riya Sharma",
-        "topic": "Process Safety Management",
-        "date": "2024-01-10",
-        "designation": "Lead Engineer, Reliance Industries",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "id": 2,
+        "name": "Career Catalyst",
+        "image": "/images/Guest Lectures/Career Catalyst.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Beyond Newtonian",
+        "image": "/images/Guest Lectures/Guest.jpeg"
     }
 ]

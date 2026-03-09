@@ -2,121 +2,121 @@
     {
         "id": 1,
         "name": "Ajay Niol",
-        "position": "club coordinator",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FAviral.jpg?alt=media&token=9f2893dd-e733-4a35-a905-60dfa9b8a09a",
+        "position": "Club Coordinator",
+        "image": "/images/Third Yr/Ajay.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/_avi_hny_0099?igsh=MWZtdjg0dzVtOGo4dw%3D%3D",
-            "linkedin": "https://linkedin.com/akhil"
+            "instagram": "https://www.instagram.com/niol_ajay_45?igsh=eHR3YjV5ZDdobXZr",
+            "linkedin": "https://www.linkedin.com/in/ajay-kumar-644b72303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
     },
     {
         "id": 2,
         "name": "Aviral Koundal",
         "position": "Club Coordinator",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FIMG20240212223238.jpg?alt=media&token=06783872-a187-4907-ad62-db12a47020cc",
+        "image": "/images/Third Yr/Aviral.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/geetanjleeee?igsh=MWFnb2kwa2F6anh0OQ==",
-            "linkedin": "https://linkedin.com/akhil"
+            "instagram": "https://www.instagram.com/_avi_hny_0099?igsh=MWZtdjg0dzVtOGo4dw%3D%3D",
+            "linkedin": ""
         }
     },
     {
         "id": 3,
         "name": "Geetanjli",
-        "position": "coordinator",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2Fgungun.jpeg?alt=media&token=4e21477b-693d-4429-998c-5aaf3f76f03a",
+        "position": "Coordinator",
+        "image": "/images/Third Yr/Geetanjli.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/_gungunn04?igsh=MXJkNTludmo5aHUyag",
-            "linkedin": "https://linkedin.com/akhil"
+            "instagram": "https://www.instagram.com/geetanjleeee?igsh=MWFnb2kwa2F6anh0OQ==",
+            "linkedin": ""
         }
     },
     {
         "id": 4,
         "name": "Gungun",
-        "position": "coordinator",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FAbhilav_Bhardwaj%20.jpg?alt=media&token=fd341628-ed26-479d-8201-016bf8d8d53a",
+        "position": "Coordinator",
+        "image": "/images/Third Yr/Gungun.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/abhilavbhardwaj?igsh=MW54Yml5dnN6MmdkdQ==",
-            "linkedin": "https://www.linkedin.com/in/abhilavbhardwaj"
+            "instagram": "https://www.instagram.com/_gungunn04?igsh=MXJkNTludmo5aHUyag",
+            "linkedin": ""
         }
     },
     {
         "id": 5,
         "name": "Hariom Saini",
-        "position": "club coordinator",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FAjay.jpg?alt=media&token=e17c47d3-bed6-48c9-ba91-6a2ef2f89ecc",
+        "position": "Coordinator",
+        "image": "/images/Third Yr/hariom saini.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/niol_ajay_45?igsh=eHR3YjV5ZDdobXZr",
-            "linkedin": "https://www.linkedin.com/in/ajay-kumar-644b72303"
+            "instagram": "https://www.instagram.com/atulsaini2457?igsh=MTB1djJtOTN3ZnpxNA==",
+            "linkedin": "https://www.linkedin.com/in/hariom-saini-5a584b320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
     },
     {
         "id": 6,
         "name": "Jay Prakash",
-        "position": "coordinator",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2Fhariom_saini.jpg?alt=media&token=05beaa1d-40ff-43dd-9ffe-04af9f0f450d",
-        "social": {
-            "instagram": "https://www.instagram.com/atulsaini2457?igsh=MTB1djJtOTN3ZnpxNA==",
-            "linkedin": "https://www.linkedin.com/in/hariom-saini-5a584b320"
-        }
-    },
-    {
-        "id": 7,
-        "name": "Noveen",
-        "position": "coordinator",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FJai%20prakash%20.jpg?alt=media&token=3e24e10f-abbe-460c-ba85-94ea1fbb9a02",
+        "position": "Coordinator",
+        "image": "/images/Third Yr/Jai Prakash.jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/_xtreme_003?igsh=MTVzZ3I2MTJpYjJo",
             "linkedin": ""
         }
     },
     {
+        "id": 7,
+        "name": "Noveen",
+        "position": "Coordinator",
+        "image": "/images/Third Yr/noveen.jpg.jpeg",
+        "social": {
+            "instagram": "https://www.instagram.com/noveen_kumar_?igsh=emx0OXFycm9jZHc%3D",
+            "linkedin": ""
+        }
+    },
+    {
         "id": 8,
         "name": "Param",
-        "position": "coordinator",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FPrikshit%20.jpg?alt=media&token=05ef7b15-7f0f-4710-b44f-a75ed4a21421",
+        "position": "Coordinator",
+        "image": "/images/Third Yr/Param.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/rajput_prikshit_13?igsh=MWRuaHB2OHkwOGdqNQ==",
+            "instagram": "",
             "linkedin": ""
         }
     },
     {
         "id": 9,
         "name": "Pranjli",
-        "position": "coordinator",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FIMG_20240212_214555.jpg?alt=media&token=699092e3-767c-4c08-8b31-bd91d1bc6a1c",
+        "position": "Coordinator",
+        "image": "/images/Third Yr/Pranjli.jpg.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/noveen_kumar_?igsh=emx0OXFycm9jZHc%3D",
-            "linkedin": "https://linkedin.com/akhil"
+            "instagram": "https://www.instagram.com/praanjliiiii?igsh=YzN2MXo1ZW0zZjZq",
+            "linkedin": ""
         }
     },
     {
         "id": 10,
         "name": "Prikshit",
-        "position": "coordinator",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2FIMG_8215.jpg?alt=media&token=2a7557d7-324e-4ddd-9276-a3baef536102",
+        "position": "Coordinator",
+        "image": "/images/Third Yr/Prikshit.jpg.jpeg",
         "social": {
-            "instagram": "https://instagram.com/akhil",
-            "linkedin": "https://linkedin.com/akhil"
+            "instagram": "https://www.instagram.com/rajput_prikshit_13?igsh=MWRuaHB2OHkwOGdqNQ==",
+            "linkedin": ""
         }
     },
     {
         "id": 11,
         "name": "Priyanshu",
-        "position": "coordinator",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2F1707755330173.jpg?alt=media&token=a6597af9-b062-4f72-a36d-7ddd468d27ad",
+        "position": "Coordinator",
+        "image": "/images/Third Yr/Priyanshu.jpeg",
         "social": {
-            "instagram": "https://www.instagram.com/praanjliiiii?igsh=YzN2MXo1ZW0zZjZq",
-            "linkedin": "https://linkedin.com/akhil"
+            "instagram": "",
+            "linkedin": ""
         }
     },
     {
         "id": 12,
         "name": " Samtan",
-        "position": "coordinator",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%2F23bch057.jpg?alt=media&token=a4479323-013b-4f19-8d5c-a99247af9ad8",
+        "position": "Coordinator",
+        "image": "/images/Third Yr/SAMTAN.jpg.jpeg",
         "social": {
             "instagram": "https://www.instagram.com/samtanzzz?igsh=MWRuOXU5dGViNTZ0OA==",
-            "linkedin": "https://linkedin.com/akhil"
+            "linkedin": ""
         }
     }
 ]
