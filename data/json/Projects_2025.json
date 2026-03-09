@@ -1,8 +1,32 @@
 [
     {
         "projectId": "dummy-2025-0",
-        "name": "Innovative 2025 Project 1",
+        "name": "CO2 Sequestration Using Algae Bioreactor",
         "year": "2025",
-        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+        "image": "/images/Algae bioreactor .jpeg"
+    },
+    {
+        "projectId": "dummy-2025-1",
+        "name": "ML Integrated Opticaal DIagnostics On Filter Media",
+        "year": "2025",
+        "image": "/images/Ml Project.jpeg"
+    },
+    {
+        "projectId": "dummy-2025-2",
+        "name": "Industrial Pipe Cleaning Bot",
+        "year": "2025",
+        "image": "/images/Bot .jpeg"
+    },
+    {
+        "projectId": "dummy-2025-3",
+        "name": "Eco-solar Biocrafter",
+        "year": "2025",
+        "image": "/images/Torrefaction.jpeg"
+    },
+    {
+        "projectId": "dummy-2025-4",
+        "name": "Quastra Space Heater",
+        "year": "2025",
+        "image": "/images/Quastra.jpeg"
     }
 ]

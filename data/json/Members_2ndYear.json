@@ -13,7 +13,6 @@
         "id": 2,
         "name": "Akshit",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FAditya.jpg?alt=media&token=a8300f39-a079-488f-976e-9e59cb60bd81",
         "social": {
             "instagram": "https://www.instagram.com/adityabhaik01?igsh=MmFkcm45MzU1Ymdx",
             "linkedin": ""
@@ -33,7 +32,6 @@
         "id": 4,
         "name": "Ashmi",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FAltamash.png?alt=media&token=6d6588ee-104c-4881-a3b5-1c63ab271ad8",
         "social": {
             "instagram": "https://www.instagram.com/zzama_altamash?igsh=YnZ1OGY0aWpucTJ3",
             "linkedin": "https://www.linkedin.com/in/altamash-undefined-356626335"
@@ -43,7 +41,6 @@
         "id": 5,
         "name": "Ayush",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FAnsh%20Parmar..jpg?alt=media&token=e0edf926-61cf-40cc-b351-9c1f8561f94d",
         "social": {
             "instagram": "https://www.instagram.com/ansh_1m2?igsh=azZraTltMzVta3Zn",
             "linkedin": "https://www.linkedin.com/in/ansh-parmar-2a5ba6348"
@@ -53,7 +50,6 @@
         "id": 6,
         "name": "Chirag",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FAyush%20Rana.jpg?alt=media&token=652cbe97-8eb9-4903-a371-f294e7a3ffed",
         "social": {
             "instagram": "",
             "linkedin": ""
@@ -63,7 +59,6 @@
         "id": 7,
         "name": "Deepankar",
         "position": "Executive Member",
-        "image": "https://raw.githubusercontent.com/akhil683/Hermetica-Club/refs/heads/main/src/assets/CC/ComingSoon.jpg",
         "social": {
             "instagram": "https://www.instagram.com/govind6561_?igsh=MWVkeWc2b3p5OHljcQ==",
             "linkedin": "https://www.linkedin.com/in/govind-prajapati-b39569336"
@@ -103,7 +98,6 @@
         "id": 11,
         "name": "Nikita",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FKshitijChauhan.jpg?alt=media&token=0f38dbe8-f242-41d3-8c45-ab13cae2d0d5",
         "social": {
             "instagram": "https://www.instagram.com/xitiz1.8?igsh=MXE2NnNmcnFpZHZteA==",
             "linkedin": "https://www.linkedin.com/in/kshitij-chauhan-b44873348"
@@ -113,7 +107,6 @@
         "id": 12,
         "name": "Nikhil",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FManan.jpg?alt=media&token=056df760-14c4-4dff-a63e-068c24c7692d",
         "social": {
             "instagram": "https://www.instagram.com/manannarnolia?igsh=MXJpemwxMjFuZWRpaw==",
             "linkedin": ""
@@ -123,7 +116,6 @@
         "id": 13,
         "name": "Sajal",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FMayuri.jpg?alt=media&token=54a093e2-972e-4ae9-bdec-6024273913c3",
         "social": {
             "instagram": "https://www.instagram.com/mayuritirole_30?igsh=cjA5aW04NXJteThq",
             "linkedin": ""
@@ -133,7 +125,6 @@
         "id": 14,
         "name": "Shivam",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FPriyanshu.jpg?alt=media&token=22e029c5-36b6-47de-85b7-5044eb113c6a",
         "social": {
             "instagram": "https://www.instagram.com/priyyaanshhuu/?hl=en",
             "linkedin": ""
@@ -143,7 +134,6 @@
         "id": 15,
         "name": "Sunidhi",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FRohit.jpg?alt=media&token=f7c8d1cc-b614-47fd-bfab-d65061fe8e93",
         "social": {
             "instagram": "https://www.instagram.com/hit_ro_30?igsh=OWFsM2JjemhwdXhz",
             "linkedin": ""
@@ -153,7 +143,6 @@
         "id": 16,
         "name": "Tanisha",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2Fsajal_photo.jpg?alt=media&token=09cbea0c-250f-4b3a-b4ae-2769d12bce2b",
         "social": {
             "instagram": "https://www.instagram.com/sajal_aluna_19?igsh=d2hhY3A5a3lpbzNm",
             "linkedin": ""
@@ -163,7 +152,6 @@
         "id": 17,
         "name": "Yashika",
         "position": "Executive Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FShivam.jpg?alt=media&token=4427cc00-53eb-4f18-9305-65e84abcf817",
         "social": {
             "instagram": "https://www.instagram.com/shvm_ia?igsh=b3phdDczOXhsZnVo",
             "linkedin": "https://www.linkedin.com/in/shivam-yadav-b02043323"

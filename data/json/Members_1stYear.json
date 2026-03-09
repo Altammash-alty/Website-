@@ -1,242 +1,242 @@
 [
     {
         "id": 1,
-        "name": "Aditi Kumari",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FAditi.jpg?alt=media&token=28b0bbaf-9051-4cf9-9987-6f8400b320cf",
+        "name": "Aakarsh",
+        "position": "Volunteer",
+        "image": "images/FirstYr/Aakarsh.png",
         "social": {
-            "instagram": "https://www.instagram.com/xoaditi78__?igsh=eGZ5dWJsNDN1NWMy",
-            "linkedin": "https://www.linkedin.com/in/aditi-kumari-793195329"
+            "instagram": "https://www.instagram.com/aakarsh_5911?igsh=MTg1MmtpOXNodHVrNw==",
+            "linkedin": "https://www.linkedin.com/in/aakarsh-bhardwaj-6a7b553ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
     },
     {
         "id": 2,
-        "name": "Aditya Bhaik",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FAditya.jpg?alt=media&token=a8300f39-a079-488f-976e-9e59cb60bd81",
+        "name": "Aapra Sharma",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Fsahu.jpg?alt=media&token=75654048-8c76-41d5-aeb1-3354a859d5bb",
         "social": {
-            "instagram": "https://www.instagram.com/adityabhaik01?igsh=MmFkcm45MzU1Ymdx",
-            "linkedin": ""
+            "instagram": "https://www.instagram.com/_.aapra._?igsh=MWFyMm83cmFkN3p1ag==",
+            "linkedin": "https://www.linkedin.com/in/aapra-sharma-846056365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
     },
     {
         "id": 3,
-        "name": "Akshit",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FAkshit.jpg?alt=media&token=304bcc28-5353-4570-b613-d370d6b93eec",
+        "name": "Altaf",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2FIMG-20240402-WA0003%20(1).jpg?alt=media&token=d4c3ea18-3a22-43f1-9cd5-87cd0e9c8eba",
         "social": {
-            "instagram": "https://www.instagram.com/akshit8_?igsh=cm5iZjFqaWNxZ3Vj",
-            "linkedin": "https://linkedin.com/akhil"
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/altaf-sheikh-0865443a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
     },
     {
         "id": 4,
-        "name": "Altamash",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FAltamash.png?alt=media&token=6d6588ee-104c-4881-a3b5-1c63ab271ad8",
+        "name": "Anshu Gautam",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2F22bch005.jpg?alt=media&token=2d6b1307-b9d8-49cf-b8cf-6605f517eef1",
         "social": {
-            "instagram": "https://www.instagram.com/zzama_altamash?igsh=YnZ1OGY0aWpucTJ3",
-            "linkedin": "https://www.linkedin.com/in/altamash-undefined-356626335"
+            "instagram": "https://www.instagram.com/_anshu_gautam._?igsh=bmY2eHFnNG1vZjBj",
+            "linkedin": "https://www.linkedin.com/in/anshu-gautam-088636398?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
     },
     {
         "id": 5,
-        "name": "Ansh Parmar",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FAnsh%20Parmar..jpg?alt=media&token=e0edf926-61cf-40cc-b351-9c1f8561f94d",
+        "name": "Devansh Chauhan",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2F22bch005.jpg?alt=media&token=2d6b1307-b9d8-49cf-b8cf-6605f517eef1",
         "social": {
-            "instagram": "https://www.instagram.com/ansh_1m2?igsh=azZraTltMzVta3Zn",
-            "linkedin": "https://www.linkedin.com/in/ansh-parmar-2a5ba6348"
+            "instagram": "https://www.instagram.com/dvn_shhh?igsh=MTF1OXU0YW90OW4weg==",
+            "linkedin": "https://www.linkedin.com/in/devansh-b39581310?utm_source=share_via&utm_content=profile&utm_medium=member_android"
         }
     },
     {
         "id": 6,
-        "name": "Ayush Rana",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FAyush%20Rana.jpg?alt=media&token=652cbe97-8eb9-4903-a371-f294e7a3ffed",
+        "name": "Devansh Sen",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2FScreenshot_20240213-172048_Gallery.jpg?alt=media&token=9b21e1ac-ac02-4223-afac-8ec899c2e06f",
         "social": {
-            "instagram": "",
-            "linkedin": ""
+            "instagram": "https://www.instagram.com/_devansh.sen_?igsh=MTFlOWZoYzl4dDBncg==",
+            "linkedin": "https://www.linkedin.com/in/devansh-sen-535364315?utm_source=share_via&utm_content=profile&utm_medium=member_android"
         }
     },
     {
         "id": 7,
-        "name": "Govind Prajapati",
-        "position": "Volunteer Member",
-        "image": "https://raw.githubusercontent.com/akhil683/Hermetica-Club/refs/heads/main/src/assets/CC/ComingSoon.jpg",
+        "name": "Dhruv Singh Kanwar",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2FIMG_20230424_224511_152.jpg?alt=media&token=dde934aa-5fbd-47a8-a2e7-b646bfb150eb",
         "social": {
-            "instagram": "https://www.instagram.com/govind6561_?igsh=MWVkeWc2b3p5OHljcQ==",
-            "linkedin": "https://www.linkedin.com/in/govind-prajapati-b39569336"
+            "instagram": "https://www.instagram.com/mag_dhruvkanwar?igsh=MWQwOHljdjZkeDBl&utm_source=qr",
+            "linkedin": "https://www.linkedin.com/in/dhruv-singh-kanwar-b60576399?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
         }
     },
     {
         "id": 8,
-        "name": "Jatin Tanwar",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FJatin%20Tanwar.jpg?alt=media&token=1df2785c-4468-4884-a123-530605c45d0e",
+        "name": "Dimpal Sidhi",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2FIMG-20240128-WA0100.jpg?alt=media&token=edd0e5e1-bc1c-4e8b-9318-3d1793f6907c",
         "social": {
-            "instagram": "https://www.instagram.com/jatin_tanwar_/",
-            "linkedin": "https://www.linkedin.com/in/jatin-tanwar-0900b52aa/"
+            "instagram": "https://www.instagram.com/di_mpalnith0001?igsh=MWV6cmhiODl4M253NA==",
+            "linkedin": "https://www.linkedin.com/in/dimpal-sidhi-2b99203b5?utm_source=share_via&utm_content=profile&utm_medium=member_android"
         }
     },
     {
         "id": 9,
-        "name": "Khushboo Sharma",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2Fkhushboo%20sharma.jpg?alt=media&token=c13844ea-90fd-472f-adbb-cd08abb96656",
+        "name": "Harshit Dhiman",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Fkhushboo.jpg?alt=media&token=94b117d4-faa2-47ae-ae9a-33c67185319b",
         "social": {
-            "instagram": "https://www.instagram.com/khushboo_sh_17?igsh=MWs2ZXY0MjBwcGd5Nw==",
-            "linkedin": "https://www.linkedin.com/in/khushboo-sharma-6b9415339"
+            "instagram": "https://www.instagram.com/profile_harry?igsh=NHN6Y211dTkwOGc3",
+            "linkedin": "https://www.linkedin.com/in/harshit-dhiman-66737638b?utm_source=share_via&utm_content=profile&utm_medium=member_android"
         }
     },
     {
         "id": 10,
-        "name": "Khushi Kumari",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FKhushi.jpg?alt=media&token=35f83352-d35b-48aa-ac0c-caba0b93e02c",
+        "name": "Ishan",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Fmehak.jpg?alt=media&token=5e072a0d-090e-45b8-925f-739ec1a61667",
         "social": {
-            "instagram": "https://www.instagram.com/_k.h.u.s.h.i_99?igsh=MTJ2M20ydXc0Z3ZyOA==",
-            "linkedin": "https://www.linkedin.com/in/khushi-singh-72786a348"
+            "instagram": "https://www.instagram.com/ishan.1_1?igsh=MTJiZ3NuMDBjNXp6Nw==",
+            "linkedin": "https://www.linkedin.com/in/ishan-66a5473a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
     },
     {
         "id": 11,
-        "name": "Kshitij Chauhan",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FKshitijChauhan.jpg?alt=media&token=0f38dbe8-f242-41d3-8c45-ab13cae2d0d5",
+        "name": "Jasmer Singh",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2F11f46452-e41c-459e-b86a-b553f956fb92.jpeg?alt=media&token=f7c5e1bb-2997-476b-8ba1-4bf2efdbe945",
         "social": {
-            "instagram": "https://www.instagram.com/xitiz1.8?igsh=MXE2NnNmcnFpZHZteA==",
-            "linkedin": "https://www.linkedin.com/in/kshitij-chauhan-b44873348"
+            "instagram": "https://www.instagram.com/jaz.dhillxn01?igsh=MTE0aG54ODF2c2hxcw==",
+            "linkedin": "https://linkedin.com/akhil"
         }
     },
     {
         "id": 12,
-        "name": "Manan Narnolia",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FManan.jpg?alt=media&token=056df760-14c4-4dff-a63e-068c24c7692d",
+        "name": "Komal Kanwar",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Fpriyanshu.jpg?alt=media&token=6c08fdcc-05b4-4f28-bf49-c3422734f774",
         "social": {
-            "instagram": "https://www.instagram.com/manannarnolia?igsh=MXJpemwxMjFuZWRpaw==",
-            "linkedin": ""
+            "instagram": "https://www.instagram.com/shivaniroy7004?igsh=MWNpbjZwOGd0NjV6MQ==",
+            "linkedin": "https://www.linkedin.com/in/komal-kanwar-b931b7386?utm_source=share_via&utm_content=profile&utm_medium=member_android"
         }
     },
     {
         "id": 13,
-        "name": "Mayuri",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FMayuri.jpg?alt=media&token=54a093e2-972e-4ae9-bdec-6024273913c3",
+        "name": "Kritika Sharma",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
         "social": {
-            "instagram": "https://www.instagram.com/mayuritirole_30?igsh=cjA5aW04NXJteThq",
-            "linkedin": ""
+            "instagram": "https://www.instagram.com/_kritika_sharma006?utm_source=qr&igsh=MTY4aHo4dnh3Mm5hcg==",
+            "linkedin": "https://www.linkedin.com/in/kritika-sharma-66b25a385?utm_source=share_via&utm_content=profile&utm_medium=member_android"
         }
     },
     {
         "id": 14,
-        "name": "Priyanshu",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FPriyanshu.jpg?alt=media&token=22e029c5-36b6-47de-85b7-5044eb113c6a",
+        "name": "Manan Mehra",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
         "social": {
-            "instagram": "https://www.instagram.com/priyyaanshhuu/?hl=en",
-            "linkedin": ""
+            "instagram": "https://www.instagram.com/manan.mehra.05?igsh=MXd3aDVlc3o5ZmFhZw==",
+            "linkedin": "https://www.linkedin.com/in/manan-mehra-378245385?utm_source=share_via&utm_content=profile&utm_medium=member_android"
         }
     },
     {
         "id": 15,
-        "name": "Rohit Kumar",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FRohit.jpg?alt=media&token=f7c8d1cc-b614-47fd-bfab-d65061fe8e93",
+        "name": "Meenakshi",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
         "social": {
-            "instagram": "https://www.instagram.com/hit_ro_30?igsh=OWFsM2JjemhwdXhz",
-            "linkedin": ""
+            "instagram": "https://www.instagram.com/meenakshi32515?igsh=Z3R1dmo1a2lhajM=",
+            "linkedin": "https://www.linkedin.com/in/meenakshi-singh-8305a43b0"
         }
     },
     {
         "id": 16,
-        "name": "Sajal Aluna",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2Fsajal_photo.jpg?alt=media&token=09cbea0c-250f-4b3a-b4ae-2769d12bce2b",
+        "name": "Nainsi",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
         "social": {
-            "instagram": "https://www.instagram.com/sajal_aluna_19?igsh=d2hhY3A5a3lpbzNm",
-            "linkedin": ""
+            "instagram": "https://www.instagram.com/na.in.si?igsh=MWg0NTc2eXF1bDVvZA==",
+            "linkedin": "https://www.linkedin.com/in/nainsi-118000380?utm_source=share_via&utm_content=profile&utm_medium=member_android"
         }
     },
     {
         "id": 17,
-        "name": "Shivam Yadav",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FShivam.jpg?alt=media&token=4427cc00-53eb-4f18-9305-65e84abcf817",
+        "name": "Nakul Yadav",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
         "social": {
-            "instagram": "https://www.instagram.com/shvm_ia?igsh=b3phdDczOXhsZnVo",
-            "linkedin": "https://www.linkedin.com/in/shivam-yadav-b02043323"
+            "instagram": "https://www.instagram.com/nakul_yadav19?igsh=MXIybmo5dmlxcWk2aQ==",
+            "linkedin": "https://www.linkedin.com/in/nakul-yadav-00b92933a"
         }
     },
     {
         "id": 18,
-        "name": "Sunidhi",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FSunidhi.jpg?alt=media&token=bad032a8-bfe4-496f-95d5-7df23d616eb3",
+        "name": "Nallabolu Rithvik Reddy",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
         "social": {
-            "instagram": "https://www.instagram.com/nidz._t?igsh=ajBreGI4NWMzcDJ5",
-            "linkedin": "https://www.linkedin.com/in/sunidhi-tamak-279b44348"
+            "instagram": "https://www.instagram.com/rithvik_reddy_.n?igsh=dDZjOW5xNWw1eGh2",
+            "linkedin": "https://www.linkedin.com/in/rithvik-reddy-nallabolu-50b274399?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
     },
     {
         "id": 19,
-        "name": "Tanisha",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FTanisha.jpg?alt=media&token=af4109de-9c47-4810-aeb0-5cfd8bf44f8f",
+        "name": "Rahul Chaudhary",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
         "social": {
-            "instagram": "https://www.instagram.com/tanisha_pathania?igsh=MWt5MnBiMHlmMGd5NA==",
-            "linkedin": "https://www.linkedin.com/in/tanisha-pathania-106864348"
+            "instagram": "https://www.instagram.com/r_x_h_u_ll?igsh=MXRqZm1oczVtZmE4Mg==",
+            "linkedin": "https://www.linkedin.com/in/rahul-chaudhary-440a093b5?utm_source=share_via&utm_content=profile&utm_medium=member_android"
         }
     },
     {
         "id": 20,
-        "name": "Tirth Marakana",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FTirth.jpg?alt=media&token=adcebc82-a302-427a-8a92-2f421eeb9c66",
+        "name": "Ridhima Bhauta",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
         "social": {
-            "instagram": "https://www.instagram.com/t_m_king007?igsh=dTQxNGZhdXc5MXBl",
-            "linkedin": "https://www.linkedin.com/in/tirth-marakana-356a57325"
+            "instagram": "https://www.instagram.com/_ridh.zz?igsh=MW9xdGt2bGtkczNhbA==",
+            "linkedin": "https://www.linkedin.com/in/ridhima-bhauta-5431783aa"
         }
     },
     {
         "id": 21,
-        "name": "Vidhi Khandelwal",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FVidhi%20.jpg?alt=media&token=68b6e514-b499-4268-bec5-b99ea63ae8c1",
+        "name": "Rohit Raj Mishra",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
         "social": {
-            "instagram": "https://www.instagram.com/vi.dhii__06?igsh=NWxweHU2ODZxODNn",
-            "linkedin": "https://www.linkedin.com/in/vidhi-khandelwal-b97205348"
+            "instagram": "https://www.instagram.com/_.rohit._2901/",
+            "linkedin": "https://www.linkedin.com/in/rohit-mishra-a16883380/"
+        }
+    },
+    {
+        "id": 22,
+        "name": "Shivani Kumari",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
+        "social": {
+            "instagram": "https://www.instagram.com/shivaniroy7004?igsh=MWNpbjZwOGd0NjV6MQ==",
+            "linkedin": "https://www.linkedin.com/in/shivani-kumari-9195a4385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
     },
     {
         "id": 23,
-        "name": "Daksh Pareek",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FDaksh_Pareek.jpg?alt=media&token=141348bf-427a-4647-8a83-33b5b99127b6",
+        "name": "Suhani Sood",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
         "social": {
-            "instagram": "https://www.instagram.com/dakshpareek__/profilecard/?igsh=aDZsc3RlcmR6anho",
-            "linkedin": ""
+            "instagram": "https://www.instagram.com/__suhaniiee__?igsh=NHFiaWEwcmQ2dDcx",
+            "linkedin": "https://www.linkedin.com/in/suhani-sood-86a465384?utm_source=share_via&utm_content=profile&utm_medium=member_android"
         }
     },
     {
         "id": 24,
-        "name": "Deepanshu Sati",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FDeepanshu.jpg?alt=media&token=53ae0cf7-31dc-4227-85dd-26735de09859",
+        "name": "Uday Saini",
+        "position": "Volunteer",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F2nd%20year%2Frohit%20dhiman.jpg?alt=media&token=f9a5e8ba-53e2-4f0b-8bef-bc96e71720b6",
         "social": {
-            "instagram": "https://www.instagram.com/dee_panshu_7?igsh=MWt1NWxiaTN4MHZ3dA==",
-            "linkedin": ""
-        }
-    },
-    {
-        "id": 25,
-        "name": "Om Sharma",
-        "position": "Volunteer Member",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2F1st%20Year%20new%2FOm_Sharma.png?alt=media&token=25cf81c3-0001-4f97-9d08-79c064ad3a86",
-        "social": {
-            "instagram": "",
-            "linkedin": ""
+            "instagram": "https://www.instagram.com/uday_jadam___?igsh=MWdiNW5seDVneDl3ZQ==",
+            "linkedin": "https://www.linkedin.com/in/uday-saini-435493338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         }
     }
 ]

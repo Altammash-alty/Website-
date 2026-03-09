@@ -8,7 +8,7 @@ import Link from "next/link";
 
 const achievements = [
   {
-    image: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=",
+    image: "/images/Nimbus 2k25.jpeg",
     title: "Nimbus 2k25",
     description: "Runner-Up : Best Departmental Team in Nimbus",
   },

@@ -1,7 +1,31 @@
 [
     {
         "projectId": "dummy-2026-0",
-        "name": "Innovative 2026 Project 1",
+        "name": "Bio-Char Enhanced Microbial Fuel Cells with BMS",
+        "year": "2026",
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+    },
+    {
+        "projectId": "dummy-2026-1",
+        "name": "Sugar Derived Biomimetic Polymer Column For Wastewater Treatment",
+        "year": "2026",
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+    },
+    {
+        "projectId": "dummy-2026-2",
+        "name": "Co Doped V2O5 Sensor Monitoring System",
+        "year": "2026",
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+    },
+    {
+        "projectId": "dummy-2026-3",
+        "name": "Sorbent Semi-Autonomous Marine Drifter",
+        "year": "2026",
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+    },
+    {
+        "projectId": "dummy-2026-4",
+        "name": "AeroVolt Design and Fabrication",
         "year": "2026",
         "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
     }

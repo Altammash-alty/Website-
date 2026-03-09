@@ -10,14 +10,14 @@ const coordinators = [
     id: 1,
     name: "Ajay Niol",
     position: "Club Co-ordinator",
-    image: 'https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2Fpriyanshu_garg.jpg?alt=media&token=0f150692-d661-49e4-9778-19bcd3027c3e',
+    image: '/images/Third Yr/Ajay.jpg.jpeg',
     bio: "Chemical Engineering student passionate about innovative solutions. Leading team projects and organizing technical events.",
   },
   {
     id: 2,
     name: "Aviral Koundal",
     position: "Club Co-ordinator",
-    image: 'https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Members%2Frohit.jpg?alt=media&token=d3e29ebd-3109-421b-911f-8df6732243e9',
+    image: '/images/Third Yr/Aviral.jpg.jpeg',
     bio: "Specializing in mentoring juniors to reach their full potential. Passionate about driving innovation in chemical engineering.",
   },
 ];

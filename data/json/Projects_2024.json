@@ -1,13 +1,49 @@
 [
     {
-        "projectId": "agro-waste-2024",
-        "name": "Cementitious Material from Agro-waste and Fly Ash",
+        "projectId": "dummy-2024-0",
+        "name": "Cementious Material From Agro Waste and Fly Ash",
         "year": "2024",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/Projects%2Fagro-waste.jpg?alt=media"
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
     },
     {
         "projectId": "dummy-2024-1",
-        "name": "Innovative 2024 Project 2",
+        "name": "Noise Proofing By Upcycling Agro Waste",
+        "year": "2024",
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+    },
+    {
+        "projectId": "dummy-2024-2",
+        "name": "Electricity Generating Tiles",
+        "year": "2024",
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+    },
+    {
+        "projectId": "dummy-2024-3",
+        "name": "Blending of Hydrogen in Natural Gas Pipelines",
+        "year": "2024",
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+    },
+    {
+        "projectId": "dummy-2024-4",
+        "name": "Biolume Aquascape",
+        "year": "2024",
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+    },
+    {
+        "projectId": "dummy-2024-5",
+        "name": "Industrial Pipe Cleaning Automated Machine",
+        "year": "2024",
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+    },
+    {
+        "projectId": "dummy-2024-6",
+        "name": "Ink From Carbon Soot",
+        "year": "2024",
+        "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
+    },
+    {
+        "projectId": "dummy-2024-7",
+        "name": "Surfactant Reomoval By Organic Matter",
         "year": "2024",
         "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg"
     }
