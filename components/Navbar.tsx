@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import { Instagram, Linkedin, Youtube } from "lucide-react";
+import { Instagram, Linkedin, Youtube, ChevronDown } from "lucide-react";
 import Image from "next/image";
 import logo from "../public/hermetica-logo.jpg";
 import { motion, AnimatePresence } from "framer-motion";
@@ -9,6 +9,7 @@ import { motion, AnimatePresence } from "framer-motion";
 export function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const [isInnovationsOpen, setIsInnovationsOpen] = useState(false);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -18,13 +19,17 @@ export function Navbar() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-
-
   const toggleNavbar = () => setIsOpen(!isOpen);
 
   const links = [
     { link: "/", name: "Home" },
-    { link: "/projects", name: "Projects" },
+    {
+      name: "Innovations",
+      submenu: [
+        { link: "/projects", name: "Project" },
+        { link: "/research", name: "Research" },
+      ]
+    },
     { link: "/events", name: "Events" },
     { link: "/members", name: "Team" },
     { link: "/gallery", name: "Gallery" },
@@ -51,14 +56,48 @@ export function Navbar() {
 
           <nav className="hidden lg:flex items-center gap-8">
             {links.map((item) => (
-              <Link
-                key={item.name}
-                href={item.link}
-                className="text-sm font-medium text-gray-300 hover:text-white transition-colors relative group magnetic"
-              >
-                {item.name}
-                <span className="absolute -bottom-1 left-0 w-0 h-[2px] bg-indigo-500 transition-all duration-300 group-hover:w-full" />
-              </Link>
+              item.submenu ? (
+                <div
+                  key={item.name}
+                  className="relative group"
+                  onMouseEnter={() => setIsInnovationsOpen(true)}
+                  onMouseLeave={() => setIsInnovationsOpen(false)}
+                >
+                  <button className="flex items-center gap-1 text-sm font-medium text-gray-300 hover:text-white transition-colors relative magnetic">
+                    {item.name}
+                    <ChevronDown className={`w-4 h-4 transition-transform duration-300 ${isInnovationsOpen ? "rotate-180" : ""}`} />
+                  </button>
+                  <AnimatePresence>
+                    {isInnovationsOpen && (
+                      <motion.div
+                        initial={{ opacity: 0, y: 10 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        exit={{ opacity: 0, y: 10 }}
+                        className="absolute top-full left-0 mt-2 w-40 bg-black/80 backdrop-blur-xl border border-white/10 rounded-xl overflow-hidden shadow-2xl"
+                      >
+                        {item.submenu.map((sub) => (
+                          <Link
+                            key={sub.name}
+                            href={sub.link}
+                            className="block px-4 py-2.5 text-sm text-gray-300 hover:bg-white/10 hover:text-white transition-colors"
+                          >
+                            {sub.name}
+                          </Link>
+                        ))}
+                      </motion.div>
+                    )}
+                  </AnimatePresence>
+                </div>
+              ) : (
+                <Link
+                  key={item.name}
+                  href={item.link!}
+                  className="text-sm font-medium text-gray-300 hover:text-white transition-colors relative group magnetic"
+                >
+                  {item.name}
+                  <span className="absolute -bottom-1 left-0 w-0 h-[2px] bg-indigo-500 transition-all duration-300 group-hover:w-full" />
+                </Link>
+              )
             ))}
           </nav>
 
@@ -67,9 +106,9 @@ export function Navbar() {
               onClick={toggleNavbar}
               className="lg:hidden w-10 h-10 rounded-full bg-white/10 border border-white/20 flex flex-col justify-center items-center gap-1.5 magnetic"
             >
-              <motion.div animate={isOpen ? { rotate: 45, y: 6 } : { rotate: 0, y: 0 }} className="w-5 h-[2px] bg-white transition-all transform origin-center" />
+              <motion.div animate={isOpen ? { rotate: 45, y: 10 } : { rotate: 0, y: 0 }} className="w-5 h-[2px] bg-white transition-all transform origin-center" />
               <motion.div animate={isOpen ? { opacity: 0 } : { opacity: 1 }} className="w-5 h-[2px] bg-white transition-all" />
-              <motion.div animate={isOpen ? { rotate: -45, y: -6 } : { rotate: 0, y: 0 }} className="w-5 h-[2px] bg-white transition-all transform origin-center" />
+              <motion.div animate={isOpen ? { rotate: -45, y: -10 } : { rotate: 0, y: 0 }} className="w-5 h-[2px] bg-white transition-all transform origin-center" />
             </button>
           </div>
         </div>
@@ -91,9 +130,22 @@ export function Navbar() {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: i * 0.1 }}
                 >
-                  <Link href={item.link} onClick={toggleNavbar} className="text-3xl font-medium text-white hover:text-indigo-400 magnetic">
-                    {item.name}
-                  </Link>
+                  {item.submenu ? (
+                    <div className="flex flex-col gap-4">
+                      <span className="text-3xl font-bold text-indigo-400">{item.name}</span>
+                      <div className="flex flex-col gap-2">
+                        {item.submenu.map((sub) => (
+                          <Link key={sub.name} href={sub.link} onClick={toggleNavbar} className="text-2xl font-medium text-white hover:text-indigo-400">
+                            {sub.name}
+                          </Link>
+                        ))}
+                      </div>
+                    </div>
+                  ) : (
+                    <Link href={item.link!} onClick={toggleNavbar} className="text-3xl font-medium text-white hover:text-indigo-400 magnetic">
+                      {item.name}
+                    </Link>
+                  )}
                 </motion.div>
               ))}
             </div>

@@ -24,7 +24,7 @@ export default function AboutSection() {
   };
 
   return (
-    <section id="about" className="relative min-h-screen flex items-center overflow-hidden py-24">
+    <section id="about" className="relative min-h-screen flex items-center overflow-hidden py-16 md:py-24">
       {/* Floating background elements */}
       <motion.div
         animate={{ y: [0, -30, 0], rotate: [0, 5, 0] }}

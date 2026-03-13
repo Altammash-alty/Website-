@@ -16,7 +16,16 @@ const ProjectCard = ({ project, noHover = false }: { project: any, noHover?: boo
       transition={{ duration: 0.5, ease: [0.22, 1, 0.36, 1] }}
     >
       <Card className={`group relative overflow-hidden rounded-2xl border-white/5 bg-[#1a1c2e] ${noHover ? "" : "hover:bg-[#232642]"} transition-all duration-500 shadow-2xl flex flex-col h-full`}>
-        <Link href={project.projectId?.startsWith('dummy') ? "#" : `/projects/${project?.projectId}`} className="flex flex-col h-full">
+        <Link 
+          href={
+            project.projectId 
+              ? (project.projectId.startsWith('dummy') || project.projectId.startsWith('research')) 
+                ? "#" 
+                : `/projects/${project.projectId}`
+              : "#"
+          } 
+          className="flex flex-col h-full"
+        >
           {/* Project Image */}
           <div className="relative aspect-[16/10] overflow-hidden w-full">
             <Image

@@ -14,7 +14,8 @@ const socialLinks = [
 
 const Team_Work = [
   { name: "Home", link: "/" },
-  { name: "Projects", link: "/projects" },
+  { name: "Innovations", link: "/projects" },
+  { name: "Research", link: "/research" },
   { name: "Events", link: "/events" },
   { name: "Team", link: "/members" },
   { name: "Gallery", link: "/gallery" },

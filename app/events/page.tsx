@@ -16,9 +16,9 @@ const EventsPage = () => {
         opacity={0.8}
       />
 
-      {/* Search Section */}
       {/* Events Grid Section */}
       <div className="container mx-auto px-4 py-16 mt-12 relative z-20">
+        <h1 className="text-4xl md:text-6xl font-bold text-white mb-12 text-center">Events</h1>
         <div className="flex flex-wrap justify-center gap-8">
           {Events.map((events) => (
             <div key={events.name} className="w-full sm:w-[calc(50%-1rem)] lg:w-[calc(25%-1.5rem)] max-w-[350px]">

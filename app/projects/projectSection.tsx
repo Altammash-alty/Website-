@@ -47,8 +47,11 @@ const ProjectSection = () => {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.8, ease: [0.22, 1, 0.36, 1] }}
-          className="flex flex-col items-center gap-8"
+          className="flex flex-col items-center gap-6 mt-12 mb-8"
         >
+          <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-b from-white via-white/90 to-white/40 filter drop-shadow-[0_0_20px_rgba(255,255,255,0.15)]">
+            Projects
+          </h1>
           <div className="flex flex-wrap justify-center gap-3 p-1.5 bg-white/5 backdrop-blur-xl border border-white/10 rounded-full relative">
             {["2026", "2025", "2024"].map((year) => (
               <button

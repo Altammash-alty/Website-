@@ -43,12 +43,12 @@ export default function AboutUs() {
             </div>
           </Card>
 
-          {/* Projects Card */}
+          {/* Innovations Card */}
           <Card className="bg-white/20 border-none px-4 py-6 md:p-8 rounded-3xl backdrop-blur-sm">
             <div className="flex items-center gap-4">
               <BookOpen className="w-8 h-8 text-white flex-shrink-0" />
               <p className="text-gray-300 leading-relaxed">
-                We provide a venue for directing technical and non-technical ideas. Team Hermetica collaborates on initiatives such as BioLume AquaScape, Noise Proofing by Upcycling Agro-waste, Ink from Carbon Soot, Industrial Pipe Cleaning Automated Machine and many more projects with the use of modern technologies.
+                We provide a venue for directing technical and non-technical ideas. Team Hermetica collaborates on initiatives such as BioLume AquaScape, Noise Proofing by Upcycling Agro-waste, Ink from Carbon Soot, Industrial Pipe Cleaning Automated Machine and many more innovations with the use of modern technologies.
               </p>
             </div>
           </Card>
@@ -58,7 +58,7 @@ export default function AboutUs() {
             <div className="flex items-center gap-4">
               <Users className="w-8 h-8 text-[#4e54ff] flex-shrink-0" />
               <p className="text-gray-300 leading-relaxed">
-                Along with projects, we have enthralling and wonderful activities like Aqua Rocket, Cascading Chest, Vaccuum Gun, Octopus Tickles which gives platform to young minds to showcase their innovative ideas. We also conduct seminars and exhibitions that give students with a variety of possibilities to enlighten their intriguing minds.
+                Along with innovations, we have enthralling and wonderful activities like Aqua Rocket, Cascading Chest, Vaccuum Gun, Octopus Tickles which gives platform to young minds to showcase their innovative ideas. We also conduct seminars and exhibitions that give students with a variety of possibilities to enlighten their intriguing minds.
               </p>
             </div>
           </Card>

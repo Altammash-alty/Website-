@@ -16,5 +16,17 @@
         "name": "Vacuum Gun",
         "image": "https://firebasestorage.googleapis.com/v0/b/hermetica-76788.appspot.com/o/events%2Flknaslkefn.jpeg?alt=media&token=84c59a75-4f44-428f-9db1-6a314bd732b7",
         "year": "2024"
+    },
+    {
+        "id": 5,
+        "name": "Gravimetric surge",
+        "image": "https://img.freepik.com/free-vector/abstract-technology-particle-background_23-2148426649.jpg",
+        "year": "2024"
+    },
+    {
+        "id": 6,
+        "name": "Vortex synergy",
+        "image": "https://img.freepik.com/free-vector/gradient-technological-background_23-2148884155.jpg",
+        "year": "2024"
     }
 ]

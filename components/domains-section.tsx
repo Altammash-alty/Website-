@@ -38,12 +38,20 @@ const domains = [
     link: "/gallery"
   },
   {
+    title: "CarX",
+    icon: Brush,
+    description: "Designing and engineering high-performance automotive models with a focus on aerodynamics and efficiency.",
+    gradient: "from-yellow-500/20 to-amber-500/20",
+    borderGlow: "group-hover:border-yellow-400/50 group-hover:shadow-[0_0_30px_rgba(234,179,8,0.3)]",
+    link: "/projects"
+  },
+  {
     title: "Research",
     icon: FlaskConical,
     description: "Driving innovation through rigorous academic investigation and applied chemical engineering research.",
     gradient: "from-emerald-500/20 to-teal-500/20",
     borderGlow: "group-hover:border-emerald-400/50 group-hover:shadow-[0_0_30px_rgba(16,185,129,0.3)]",
-    link: "/about"
+    link: "/research"
   }
 ];
 
@@ -68,11 +76,11 @@ export default function DomainsSection() {
   };
 
   return (
-    <section id="domains" className="py-24 relative overflow-hidden">
+    <section id="domains" className="py-16 md:py-24 relative overflow-hidden">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(79,70,229,0.1)_0,transparent_100%)] pointer-events-none" />
 
       <div className="max-w-7xl mx-auto px-6 relative z-10">
-        <div className="bg-black/40 backdrop-blur-xl border border-white/10 rounded-[3rem] p-8 md:p-12 shadow-[0_0_50px_rgba(0,0,0,0.5)]">
+        <div className="bg-black/40 backdrop-blur-xl border border-white/10 rounded-3xl md:rounded-[3rem] p-6 md:p-12 shadow-[0_0_50px_rgba(0,0,0,0.5)]">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}

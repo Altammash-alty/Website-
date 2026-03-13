@@ -47,7 +47,7 @@ const achievements = [
 const workItems = [
   {
     icon: Code,
-    title: "Projects",
+    title: "Innovations",
     description: "Explore our innovative projects and case studies",
     gradient: "from-purple-600 to-indigo-700",
     color: "bg-purple-600",
@@ -111,7 +111,7 @@ export function AchievementCarousel() {
   const nextIdx = getIdx(current + 1);
 
   return (
-    <section id="achievements" className="relative py-24 overflow-hidden">
+    <section id="achievements" className="relative py-16 md:py-24 overflow-hidden">
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(99,102,241,0.08)_0,transparent_70%)] pointer-events-none" />
 
       <div className="relative z-10 w-full">

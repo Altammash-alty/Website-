@@ -176,7 +176,7 @@ export default function ParticleBackground() {
 
             {/* Andromeda Galaxy (Smaller, Top Left) */}
             <motion.div
-                className="absolute top-[10%] left-[5%] w-[35vw] h-[35vw] max-w-[500px] max-h-[500px] opacity-65 mix-blend-screen z-0"
+                className="absolute top-[5%] left-[-10%] sm:top-[10%] sm:left-[5%] w-[50vw] h-[50vw] sm:w-[35vw] sm:h-[35vw] max-w-[500px] max-h-[500px] opacity-65 mix-blend-screen z-0"
                 style={{
                     WebkitMaskImage: 'radial-gradient(circle, black 30%, transparent 70%)',
                     maskImage: 'radial-gradient(circle, black 30%, transparent 70%)'
@@ -189,24 +189,24 @@ export default function ParticleBackground() {
 
             {/* Gargantua Black Hole (Larger, Bottom Right) */}
             <motion.div
-                className="absolute bottom-[-15%] right-[-15%] w-[60vw] h-[60vw] max-w-[900px] max-h-[900px] opacity-85 mix-blend-screen z-0"
+                className="absolute bottom-[-5%] right-[-5%] sm:bottom-[-10%] sm:right-[-10%] w-[85vw] h-[85vw] sm:w-[60vw] sm:h-[60vw] max-w-[900px] max-h-[900px] opacity-90 mix-blend-screen z-30"
                 style={{
-                    WebkitMaskImage: 'radial-gradient(circle, black 40%, transparent 70%)',
-                    maskImage: 'radial-gradient(circle, black 40%, transparent 70%)'
+                    WebkitMaskImage: 'radial-gradient(circle, black 45%, transparent 75%)',
+                    maskImage: 'radial-gradient(circle, black 45%, transparent 75%)'
                 }}
                 animate={{ scale: [1, 1.02, 1] }}
                 transition={{ duration: 15, repeat: Infinity, ease: "easeInOut" }}
             >
-                <Image src="/gargantua.png" alt="Gargantua" fill className="object-contain filter blur-[2px]" />
+                <Image src="/gargantua.png" alt="Gargantua" fill className="object-contain filter blur-[1px]" />
             </motion.div>
 
-            <div className="absolute inset-0 z-10">
-                <Canvas camera={{ position: [0, 0, 8], fov: 60 }}>
+            <div className="absolute inset-0 z-10 pointer-events-none">
+                <Canvas camera={{ position: [0, 0, 8], fov: 60 }} className="pointer-events-none">
                     <Particles />
                 </Canvas>
             </div>
 
-            <div className="absolute inset-0 bg-gradient-to-b from-transparent via-black/40 to-black z-20 pointer-events-none" />
+            <div className="absolute inset-0 bg-gradient-to-b from-transparent via-black/20 to-black/80 z-20 pointer-events-none" />
         </div>
     );
 }
